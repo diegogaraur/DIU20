@@ -11,7 +11,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Diego García Aurelio     :octocat:   diegogaraur  
- * :bust_in_silhouette:  Miguel Ángel Mena Barrera     :octocat: 
+ * :bust_in_silhouette:  Miguel Ángel Mena Barrera     :octocat: MenaBarrera
 
 ----- 
 

@@ -1,7 +1,7 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: HORAPI  Curso: 2019/20 
 
 Proyecto: 
 
@@ -10,8 +10,8 @@ Descripción:
 Logotipo: 
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Diego García Aurelio     :octocat:     
+ * :bust_in_silhouette:  Miguel Ángel Mena Barrera     :octocat:
 
 ----- 
 

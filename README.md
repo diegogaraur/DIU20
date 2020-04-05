@@ -29,7 +29,7 @@ Hemos escogido como aplicación para analizar *Travello* una red social de viaje
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
-Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que entre sí son distintos. Uno de ellos (Kevin) esta mas relacionado con un estudiante como nosotros. La otra persona, es adulta, creemos que encaja dentro del perfil de los usuarios que puede tener la aplicación.
+Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que entre sí son distintos. Uno de ellos (Kevin) esta mas relacionado con un estudiante como nosotros. La otra persona, es adulta y soltera, creemos que encaja dentro del perfil de los usuarios que puede tener la aplicación.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----

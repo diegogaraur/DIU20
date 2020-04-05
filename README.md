@@ -76,9 +76,7 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 Término | Significado     
 | ------------- | -------
   Chats  | Listado de conversaciones con otros usuarios de la aplicación.
-| ------------- | -------
   Chatear  | Intercambio de mensajes con otro usuario.
-| ------------- | -------
   Acompañante  | Usuario de la aplicación que busca otro/s compañeros de viaje.
 
 

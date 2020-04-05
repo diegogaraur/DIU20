@@ -5,7 +5,7 @@ Grupo: HORAPI  Curso: 2019/20
 
 Proyecto: Viamos!
 
-Descripción: El objetivo del producto es que encuentres uno o varios acompañantes para un viaje que deseas realizar. Además, indicando las actividades que quieras hacer en dicho viaje servirá para aconsejarte de acompañantes con actividades similares o incluso intereses comunes.
+Descripción: El objetivo del producto es que encuentres uno o varios acompañantes para un viaje que deseas realizar. Además, indicar las actividades que quieres hacer en dicho viaje servirá para aconsejarte de acompañantes con actividades similares o incluso intereses comunes.
 
 Logotipo: 
 

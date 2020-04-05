@@ -50,20 +50,7 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-Interesante/Relevante | Críticas Constructivas   
-| ------------- | -------
-  Búsqueda de experiencias cercanas.  | La app está llena de bots, necesita un sistema que los detecte.
-  Comentarios en las experiencias.  | El diseño no es para nada intuitivo.
-  Comentarios en las experiencias.  | El diseño no es para nada intuitivo.
-  Existen grupos de personas que acuden a ciertas experiencias. | Tiene un complejo sistema de amistades/followers.
-  
-  Preguntas | Nuevas Ideas  
-| ------------- | -------
-¿Realmente esta app aporta valor suficiente como para necesitar micropagos? | Simplificar el diseño de la App.
-¿La función de compartir momentos realmente aporta algo? | Unificar todo el diseño a solo 3 pestañas (eliminando funciones que no aportan en exceso)
-¿Cuál es la función exacta de la pestaña status? |
+![MallaReceptora](P2/MallaReceptora.png)
 
   
 ### ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?

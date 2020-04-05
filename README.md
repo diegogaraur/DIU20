@@ -25,7 +25,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Hemos escogido como aplicación para analizar *Travello* una red social de viajes.
+Hemos escogido como aplicación para analizar *Travello* una red social de viajes y experiencias.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -75,7 +75,11 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Chats  | Listado de conversaciones con otros usuarios de la aplicación.
+| ------------- | -------
+  Chatear  | Intercambio de mensajes con otro usuario.
+| ------------- | -------
+  Acompañante  | Usuario de la aplicación que busca otro/s compañeros de viaje.
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes

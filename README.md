@@ -62,7 +62,7 @@ Interesante/Relevante | Críticas Constructivas
   Comentarios en las experiencias.  | El diseño no es para nada intuitivo.
   Existen grupos de personas que acuden a ciertas experiencias. | Tiene un complejo sistema de amistades/followers.
   
-  Interesante/Relevante | Críticas Constructivas   
+  Preguntas | Nuevas Ideas  
 | ------------- | -------
 ¿Realmente esta app aporta valor suficiente como para necesitar micropagos? | Simplificar el diseño de la App.
 ¿La función de compartir momentos realmente aporta algo? | Unificar todo el diseño a solo 3 pestañas (eliminando funciones que no aportan en exceso)

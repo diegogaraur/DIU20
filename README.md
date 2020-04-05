@@ -52,9 +52,6 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
-
-![img](img/malla_receptora.png)
-
 Interesante/Relevante | Críticas Constructivas   
 | ------------- | -------
   Búsqueda de experiencias cercanas.  | La app está llena de bots, necesita un sistema que los detecte.

@@ -50,11 +50,22 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
 ![img](img/malla_receptora.png)
+Interesante/Relevante | Críticas Constructivas   
+| ------------- | -------
+  Búsqueda de experiencias cercanas.  | La app está llena de bots, necesita un sistema que los detecte.
+  Comentarios en las experiencias.  | El diseño no es para nada intuitivo.
+  Comentarios en las experiencias.  | El diseño no es para nada intuitivo.
+  Existen grupos de personas que acuden a ciertas experiencias. | Tiene un complejo sistema de amistades/followers.
+  Interesante/Relevante | Críticas Constructivas   
+| ------------- | -------
+¿Realmente esta app aporta valor suficiente como para necesitar micropagos? | Simplificar el diseño de la App.
+¿La función de compartir momentos realmente aporta algo? | Unificar todo el diseño a solo 3 pestañas (eliminando funciones que no aportan en exceso)
+¿Cuál es la función exacta de la pestaña status? |
+
   
 ### ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 Como propuesta de valor planteamos una app, para compartir experiencias o viajes. Hemos tomado como punto de partida Travello. Nuestra propuesta se basa en simplificar el diseño de la App, el cual era dificil de usar y de adaptarse. En segundo lugar hemos mantenido las funcionalidades básicas de Tavello que si cumplían una función real dentro de la plataforma. En tercer luegar hemos mejorado detalles como que una persona no puede hablar a otra sin una solicitud previa o que a cada usuario se le muestre para cada destino los usuarios mas afines.

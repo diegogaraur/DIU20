@@ -54,12 +54,14 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 
 
 ![img](img/malla_receptora.png)
+
 Interesante/Relevante | Críticas Constructivas   
 | ------------- | -------
   Búsqueda de experiencias cercanas.  | La app está llena de bots, necesita un sistema que los detecte.
   Comentarios en las experiencias.  | El diseño no es para nada intuitivo.
   Comentarios en las experiencias.  | El diseño no es para nada intuitivo.
   Existen grupos de personas que acuden a ciertas experiencias. | Tiene un complejo sistema de amistades/followers.
+  
   Interesante/Relevante | Críticas Constructivas   
 | ------------- | -------
 ¿Realmente esta app aporta valor suficiente como para necesitar micropagos? | Simplificar el diseño de la App.

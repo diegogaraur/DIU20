@@ -68,7 +68,7 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-(P2/MapaDeSitios.png)
+![Sitemap](P2/MapaDeSitios.png)
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 

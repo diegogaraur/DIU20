@@ -70,9 +70,6 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-
->>> Identificar términos para diálogo con usuario  
-
 Término | Significado     
 | ------------- | -------
   Chats  | Listado de conversaciones con otros usuarios de la aplicación.

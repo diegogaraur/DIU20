@@ -66,7 +66,7 @@ Como propuesta de valor planteamos una app, para compartir experiencias o viajes
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
-### User task
+### User tasks
 |                  | G1: Usuarios jovenes | G2: Usuarios no casados | G3: Familias   
 |------------------| -------------------- | ------------------------| ----------
 Registrarse        | L | L | L
@@ -74,7 +74,7 @@ Buscar experiencia | L/M | M | M
 Chatear            | M | H | L
 Ver/editar perfil  | H | M | M
 
-L:Low M:Moderate H:High
+L: Low  M: Moderate  H: High
 
 ### Sitemap
 ![Sitemap](P2/MapaDeSitios.png)

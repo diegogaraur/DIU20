@@ -44,11 +44,10 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+
+- Enlace al documento: https://github.com/diegogaraur/DIU20/blob/master/P1/Usability%20scores.pdf
+- Valoración final (numérica): 62/100 - Moderate
+- Comentario sobre la valoración:  (60-120 caracteres)
 
 
 ## Paso 2. UX Design  
@@ -83,10 +82,10 @@ L:Low M:Moderate H:High
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-Término | Significado     
-| ------------- | -------
-  Chats  | Listado de conversaciones con otros usuarios de la aplicación.
-  Chatear  | Intercambio de mensajes con otro usuario.
+  Término      | Significado     
+| ------------ | -------
+  Chats        | Listado de conversaciones con otros usuarios de la aplicación.
+  Chatear      | Intercambio de mensajes con otro usuario.
   Acompañante  | Usuario de la aplicación que busca otro/s compañeros de viaje.
 
 

@@ -67,12 +67,12 @@ Como propuesta de valor planteamos una app, para compartir experiencias o viajes
 -----
 
 ### User task
-  | G1: Usuarios jovenes | G2: Usuarios no casados | Familias   
-  | -------------------- | ------------------------| ----------
-Registrarse | L | L | L
+|                  | G1: Usuarios jovenes | G2: Usuarios no casados | Familias   
+|------------------| -------------------- | ------------------------| ----------
+Registrarse        | L | L | L
 Buscar experiencia | L/M | M | M
-Chatear | M | H | L
-Ver/editar perfil | H | M | M
+Chatear            | M | H | L
+Ver/editar perfil  | H | M | M
 
 L:Low M:Moderate H:High
 

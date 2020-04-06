@@ -74,7 +74,7 @@ Buscar experiencia | L/M | M | M
 Chatear            | M | H | L
 Ver/editar perfil  | H | M | M
 
-L: Low  M: Moderate  H: High
+L:Low M:Moderate H:High
 
 ### Sitemap
 ![Sitemap](P2/MapaDeSitios.png)

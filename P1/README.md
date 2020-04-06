@@ -1,9 +1,24 @@
-## DIU - Practica1, entregables
+## DIU - Practica1
 
 
+## Análisis Competencia 
+---
 
 
-- Desk research: Análisis Competencia 
-- 2 Personas 
-- 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+## Personas 
+---
+
+![Kevin](Users/Kevin.png)
+![Alejandro](Users/Alejandro.png)
+
+### User Journey Map
+---
+
+![KevinJ](Users/KevinJ.png)
+![AlejandroJ](Users/AlejandroJ.png)
+
+
+### Revisión de Usabilidad 
+---
+
+

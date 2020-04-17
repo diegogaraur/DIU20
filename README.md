@@ -116,7 +116,7 @@ L:Low M:Moderate H:High
 
 >>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
 
-Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustration para finalizar todo el diseño del logotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Vamos + Viajar = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que lleva a un punto o viéndolo de otra forma, como tres caminos se acaban fuionando para llegar a un punto.
+Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustration para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Vamos + Viajar = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que lleva a un punto o viéndolo de otra forma, como tres caminos se acaban fuionando para llegar a un punto.
 
 <p align="center">
   <img height="167" src="P3/Logotipo/2x/imagotipo_positivo_fondo@2x.png">

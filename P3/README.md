@@ -4,6 +4,10 @@
 
 
 ## 2. Propuesta de elementos de diseño o patrones a usar 
+Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
+
+Respecto a los patrones y componentes destacables, tenemos los siguientes:
+
 <p align="center">
   <img src="../P2/Bocetos/Principal.png"/>
 </p>

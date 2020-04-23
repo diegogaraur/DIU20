@@ -6,6 +6,8 @@
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
 
+En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo de la aplicación. El color morado (#4A148C) será el principal de la app, lo usaremos en algunos componentes como Top Bars, Bottom Bars, botones o iconos. El blanco (#FFFFFF) será usado para todos los fondos y tipografía cuando el fondo sea oscuro o morado. En fondos blancos o claros usaremos el color negro (#000000) para la tipografía. 
+
 Respecto a los patrones y componentes destacables, tenemos los siguientes:
 
 <p align="center">

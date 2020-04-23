@@ -38,7 +38,7 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
   <img height="200" src="P1/Users/Kevin.png"> <img height="200" src="P1/Users/Alejandro.png">
 </p>
 
-Para ver las personas con más detalle pulsa [aquí](P3/README.md). (Apartado 2. Personas)
+Para ver las personas con más detalle pulsa [aquí](P2/README.md). (Apartado 2. Personas)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -50,7 +50,7 @@ Para ver las personas con más detalle pulsa [aquí](P3/README.md). (Apartado 2.
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-- Enlace al documento: https://github.com/diegogaraur/DIU20/blob/master/P1/Usability%20scores.pdf
+- [Enlace al documento](https://github.com/diegogaraur/DIU20/blob/master/P1/Usability%20scores.pdf)
 - Valoración final (numérica): 62/100 - Moderate
 - Comentario sobre la valoración: Comenzando por las cosas buenas de la aplicación, destacamos los formularios, que son bastantes completos y tienen los formatos correctos. Y por otro lado, la navegación está correcta, el usuario puede encontrar la aplicación correctamente y dentro de la aplicación es posible acceder a los distintas funcionalidades de manera rápida, quizás como pega pondríamos que tiene demasiados sitios. En cuanto a las cosas que destacamos como más pobres están el contenido, que flojea como información útil; Las búsquedas no se resuelven lo suficientemente bien y muchas de las funcionalidades acaban siendo demasiado complejas. El resto de aspectos no comentados, los vemos de forma moderada.
 
@@ -61,8 +61,9 @@ Para ver las personas con más detalle pulsa [aquí](P3/README.md). (Apartado 2.
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
-![MallaReceptora](P2/MallaReceptora.png)
-
+<p align="center">
+  <img height="350" src="P2/MallaReceptora.png">
+</p>
   
 ### ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 Como propuesta de valor planteamos una app, para compartir experiencias o viajes. Hemos tomado como punto de partida Travello. Nuestra propuesta se basa en simplificar el diseño de la App, el cual era dificil de usar y de adaptarse. En segundo lugar hemos mantenido las funcionalidades básicas de Tavello que si cumplían una función real dentro de la plataforma. En tercer luegar hemos mejorado detalles como que una persona no puede hablar a otra sin una solicitud previa o que a cada usuario se le muestre para cada destino los usuarios mas afines.
@@ -81,8 +82,9 @@ Ver/editar perfil  | H                    | M                       | M
 L:Low M:Moderate H:High
 
 ### Sitemap
-![Sitemap](P2/MapaDeSitios.png)
-
+<p align="center">
+  <img src="P2/MapaDeSitios.png">
+</p>
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
@@ -114,6 +116,7 @@ L:Low M:Moderate H:High
 
 ![Método UX](img/landing-page.png)  3.b Imagotipo
 ----
+
 Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustration para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Vamos + Viajar = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que lleva a un punto o viéndolo de otra forma, como tres caminos se acaban fuionando para llegar a un punto.
 
 <p align="center">
@@ -130,11 +133,12 @@ Estas imágenes estaría bien usarlas como foto de perfil de las redes sociales,
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+
 Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
 
 En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo de la aplicación. El color morado (#4A148C) será el principal de la app, lo usaremos en algunos componentes como Top Bars, Bottom Bars, botones o iconos. El blanco (#FFFFFF) será usado para todos los fondos y tipografía cuando el fondo sea oscuro o morado. En fondos blancos o claros usaremos el color negro (#000000) para la tipografía. 
 
-Respecto a los patrones y componentes destacables puedes verlos detalladamente [aquí](P3/README.md) (Apartado 2. Propuesta de elementos de diseño o patrones a usar)
+Para más información acerca del uso de la tipografía, colores, los patrones y componentes utilizados haga click [aquí](P3/README.md) y lea el Apartado 2. Propuesta de elementos de diseño o patrones a usar.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
@@ -166,18 +170,6 @@ Respecto a los patrones y componentes destacables puedes verlos detalladamente [
 >>> Concluya con un ranking de los casos evaluados 
 
 >>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
 
 
 ## Conclusión final / Valoración de las prácticas

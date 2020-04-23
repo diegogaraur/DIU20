@@ -1,22 +1,21 @@
 # DIU - Practica1
 
-## Análisis Competencia 
+## 1. Análisis Competencia 
 
 
 
-## Personas 
-
+## 2. Personas 
 
 ![Kevin](Users/Kevin.png)
 ![Alejandro](Users/Alejandro.png)
 
-## User Journey Map
+## 3. User Journey Map
 
 ![KevinJ](JourneyMaps/KevinJ.png)
 ![AlejandroJ](JourneyMaps/AlejandroJ.png)
 
 
-## Revisión de Usabilidad 
+## 4. Revisión de Usabilidad 
 
 | Travello                               |                                                                                                                                                                                            |  | Score                                     |   | Comments                                                                                                                                                 |
 |----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--|-------------------------------------------|---|----------------------------------------------------------------------------------------------------------------------------------------------------------|

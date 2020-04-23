@@ -38,7 +38,7 @@ Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que en
   <img height="200" src="P1/Users/Kevin.png"> <img height="200" src="P1/Users/Alejandro.png">
 </p>
 
-Para ver las personas con más detalle pulsa [aquí](P2/README.md). (Apartado 2. Personas)
+Para ver las personas con más detalle pulsa [aquí](P1/README.md). (Apartado 2. Personas)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -50,7 +50,7 @@ Para ver las personas con más detalle pulsa [aquí](P2/README.md). (Apartado 2.
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
 
-- [Enlace al documento](https://github.com/diegogaraur/DIU20/blob/master/P1/Usability%20scores.pdf)
+- [Enlace al documento](P1/Usability%20scores.pdf)
 - Valoración final (numérica): 62/100 - Moderate
 - Comentario sobre la valoración: Comenzando por las cosas buenas de la aplicación, destacamos los formularios, que son bastantes completos y tienen los formatos correctos. Y por otro lado, la navegación está correcta, el usuario puede encontrar la aplicación correctamente y dentro de la aplicación es posible acceder a los distintas funcionalidades de manera rápida, quizás como pega pondríamos que tiene demasiados sitios. En cuanto a las cosas que destacamos como más pobres están el contenido, que flojea como información útil; Las búsquedas no se resuelven lo suficientemente bien y muchas de las funcionalidades acaban siendo demasiado complejas. El resto de aspectos no comentados, los vemos de forma moderada.
 
@@ -138,7 +138,7 @@ Las principales líneas de diseño tomadas para este proyecto vienen marcadas po
 
 En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo de la aplicación. El color morado (#4A148C) será el principal de la app, lo usaremos en algunos componentes como Top Bars, Bottom Bars, botones o iconos. El blanco (#FFFFFF) será usado para todos los fondos y tipografía cuando el fondo sea oscuro o morado. En fondos blancos o claros usaremos el color negro (#000000) para la tipografía. 
 
-Para más información acerca del uso de la tipografía, colores, los patrones y componentes utilizados haga click [aquí](P3/README.md) y lea el Apartado 2. Propuesta de elementos de diseño o patrones a usar.
+Para más información acerca del uso de la tipografía, colores, los patrones y componentes utilizados haga click [aquí](P3/README.md#2-propuesta-de-elementos-de-diseño-o-patrones-a-usar).
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
@@ -164,7 +164,7 @@ Para más información acerca del uso de la tipografía, colores, los patrones y
 >>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
 
 
-![Método UX](img/Survey.png). 4.c Ranking 
+![Método UX](img/Survey.png) 4.c Ranking 
 ----
 
 >>> Concluya con un ranking de los casos evaluados 

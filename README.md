@@ -34,9 +34,11 @@ Hemos escogido como aplicación para analizar *Travello* una red social de viaje
 -----
 Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que entre sí son distintos. Uno de ellos (Kevin) esta mas relacionado con un estudiante como nosotros. La otra persona, es adulta y soltera, creemos que encaja dentro del perfil de los usuarios que puede tener la aplicación.
 
-![UKevin](P1/Users/Kevin.png)
-![UAlejandro](P1/Users/Alejandro.png)
+<p align="center">
+  <img height="200" src="P1/Users/Kevin.png"> <img height="200" src="P1/Users/Alejandro.png">
+</p>
 
+Para ver las personas con más detalle pulsa [aquí](P3/README.md). (Apartado 2. Personas)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -112,10 +114,6 @@ L:Low M:Moderate H:High
 
 ![Método UX](img/landing-page.png)  3.b Imagotipo
 ----
-
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
 Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustration para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Vamos + Viajar = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que lleva a un punto o viéndolo de otra forma, como tres caminos se acaban fuionando para llegar a un punto.
 
 <p align="center">
@@ -132,8 +130,11 @@ Estas imágenes estaría bien usarlas como foto de perfil de las redes sociales,
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo de la aplicación. El color morado (#4A148C) será el principal de la app, lo usaremos en algunos componentes como Top Bars, Bottom Bars, botones o iconos. El blanco (#FFFFFF) será usado para todos los fondos y tipografía cuando el fondo sea oscuro o morado. En fondos blancos o claros usaremos el color negro (#000000) para la tipografía. 
+
+Respecto a los patrones y componentes destacables puedes verlos detalladamente [aquí](P3/README.md) (Apartado 2. Propuesta de elementos de diseño o patrones a usar)
 
 ![Método UX](img/mockup.png)  3.d Video
 ----

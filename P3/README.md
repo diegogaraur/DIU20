@@ -1,4 +1,4 @@
-# DIU - Practica 3, entregables
+# DIU - Practica 3. Tu	equipo	UX	Case	Study
 
 ## 1. Análisis de MuseMap   
 

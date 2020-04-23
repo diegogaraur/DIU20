@@ -1,4 +1,4 @@
-# DIU - Practica1
+# DIU - Practica1. Análisis del Interfaz de Usuario. Revisión de Usabilidad
 
 ## 1. Análisis Competencia 
 

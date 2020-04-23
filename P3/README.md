@@ -12,7 +12,7 @@ En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo 
   <img height="350" src="Tipografia&Colores.png">
 </p>
 
-Respecto a los patrones y componentes destacables, tenemos los siguientes:
+Partiendo de los bocetos, destacamos los siguientes patrones y componentes:
 
 <p align="center">
   <img src="../P2/Bocetos/Principal.png"/>

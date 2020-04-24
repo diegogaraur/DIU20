@@ -117,16 +117,16 @@ L:Low M:Moderate H:High
 ![Método UX](img/landing-page.png)  3.b Imagotipo
 ----
 
-Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustration para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Vamos + Viajar = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que lleva a un punto o viéndolo de otra forma, como tres caminos se acaban fuionando para llegar a un punto.
+Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustrator para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Vamos + Viajar = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que lleva a un punto o viéndolo de otra forma, como tres caminos se acaban fuionando para llegar a un punto.
 
 <p align="center">
-  <img height="167" src="P3/Logotipo/2x/imagotipo_positivo_fondo@2x.png">
-  <img height="167" src="P3/Logotipo/2x/isotipo1_positivo_fondo@2x.png">
+  <img height="150" src="P3/Logotipo/2x/imagotipo_positivo_fondo@2x.png">
+  <img height="150" src="P3/Logotipo/2x/isotipo1_positivo_fondo@2x.png">
 </p>
 
 <p align="center">
-  <img height="167" src="P3/Logotipo/2x/imagotipo_negativo_fondo@2x.png">
-  <img height="167" src="P3/Logotipo/2x/isotipo1_negativo_fondo@2x.png">
+  <img height="150" src="P3/Logotipo/2x/imagotipo_negativo_fondo@2x.png">
+  <img height="150" src="P3/Logotipo/2x/isotipo1_negativo_fondo@2x.png">
 </p>
 
 Estas imágenes estaría bien usarlas como foto de perfil de las redes sociales, pero para casos como el encabezado de Twitter sería mejor usar otro tipo de recursos ya que sino obtendríamos un perfil con el Logotipo/Imagotipo demasiado repetitivo.

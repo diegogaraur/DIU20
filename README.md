@@ -117,7 +117,7 @@ L:Low M:Moderate H:High
 ![Método UX](img/landing-page.png)  3.b Imagotipo
 ----
 
-Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustrator para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Viajar + Vamos = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que lleva a un punto o viéndolo de otra forma, como tres caminos de personas distintas que se acaban juntando para llegar a un punto.
+Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustrator para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Viajar + Vamos = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que señala a un punto o viéndolo de otra forma, como tres caminos de personas distintas que se acaban juntando para llegar a un mismo punto. El punto simboliza el destino al que se quiere llegar.
 
 <p align="center">
   <img height="150" src="P3/Logotipo/2x/imagotipo_positivo_fondo@2x.png">

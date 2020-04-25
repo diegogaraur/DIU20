@@ -6,6 +6,18 @@
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por Google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
 
+### Color
+El color principal de la aplicación de Viamos! parte del Imagotipo que es un violeta 900 de la paleta de Material definida por Google. También hacemos uso de otro color, el cual es una variación clara del violeta 900 que usaremos mayoritariamente para botones.
+
+<p align="center">
+  <img src="Estilos/Color.png>
+</p>
+
+### Tipografía
+
+### Iconografía
+
+
 En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo de la aplicación. El color morado (#4A148C, que coincide con el Purple 900 de la paleta de colores propuesta por Google) será el principal de la app, lo usaremos en algunos componentes como Top Bars, Bottom Bars, botones o iconos. El blanco (#FFFFFF) será usado para todos los fondos y tipografía cuando el fondo sea oscuro o morado. En fondos blancos o claros usaremos el color negro (#000000) para la tipografía. En la siguiente imagen podemos observar el uso de la tipografía según su utilización y fondo:
 
 <p align="center">

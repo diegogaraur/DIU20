@@ -4,7 +4,7 @@
 
 
 ## 2. Propuesta de elementos de diseño o patrones a usar 
-Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por Google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
+Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google: [Material Design](https://material.io), donde podemos comprobar que utilizamos varias de las directrices que google nos aporta en su página oficial.
 
 ### 2.1. Color
 El color principal de la aplicación de Viamos! parte del Imagotipo que es un violeta 900 de la [paleta de colores Material Design](https://material.io/design/color/the-color-system.html#tools-for-picking-colors). También hacemos uso de otro color, el cual es una variación clara del violeta 900 que usaremos mayoritariamente para botones.
@@ -85,7 +85,7 @@ Lista de acompañantes:
 </p>
 
 Perfil de un acompañante:
-  - Tabs: Un tab la lista de actividades comunes para el destino y el resto que no coinciden y otro tab para la información acerca del acompañante.
+  - Tabs: Un tab para la lista de actividades comunes para el destino buscado y el resto que no coinciden y otro tab para la información acerca del acompañante.
   - Boton flotante con texto centrado.
 
 <p align="center">
@@ -101,6 +101,7 @@ Chats:
 </p>
 
 Conversación:
+  - Top Bar: Con opción de volver atrás, ver perfil del usuario (icono de la persona) y un menú para otros ajustes (tre puntos).
   - Lista de mensajes: Mostando de un color los enviados y los recibidos (Social chat).
 
   

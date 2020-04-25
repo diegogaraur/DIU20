@@ -6,24 +6,30 @@
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por Google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
 
-### Color
-El color principal de la aplicación de Viamos! parte del Imagotipo que es un violeta 900 de la paleta de Material definida por Google. También hacemos uso de otro color, el cual es una variación clara del violeta 900 que usaremos mayoritariamente para botones.
+### 2.1. Color
+El color principal de la aplicación de Viamos! parte del Imagotipo que es un violeta 900 de la [paleta de colores Material Design](https://material.io/design/color/the-color-system.html#tools-for-picking-colors). También hacemos uso de otro color, el cual es una variación clara del violeta 900 que usaremos mayoritariamente para botones.
 
 <p align="center">
-  <img src="Estilos/Color.png>
+  <img height="600" src="Estilos/Color.png"/>
 </p>
 
-### Tipografía
+### 2.2. Tipografía
 
-### Iconografía
+Viamos! usa [Nunito](https://fonts.google.com/specimen/Nunito) para su logotipo y también lo usa para la aplicación, es una tipografía redondeada y con muchos pesos a elegir, pudiéndolo aplicar para distintas cosas de la aplicación.
 
+Los tamaños usados en la aplicación y su uso vienen marcados por la siguiente imagen:
+<p align="center">
+  <img height="350" src="Estilos/Tipografia.png"/>
+</p>
 
-En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo de la aplicación. El color morado (#4A148C, que coincide con el Purple 900 de la paleta de colores propuesta por Google) será el principal de la app, lo usaremos en algunos componentes como Top Bars, Bottom Bars, botones o iconos. El blanco (#FFFFFF) será usado para todos los fondos y tipografía cuando el fondo sea oscuro o morado. En fondos blancos o claros usaremos el color negro (#000000) para la tipografía. En la siguiente imagen podemos observar el uso de la tipografía según su utilización y fondo:
+### 2.3. Iconografía
+Los iconos usados en Viamos! son los predeterminados por Material Design usando el tema Redondeados para tener una mayor coherencia con la tipografía. Aquí más información de [Material Icons](https://material.io/resources/icons/?style=round).
 
 <p align="center">
-  <img height="350" src="Tipografia&Colores.png">
+  <img height="300" src="Estilos/Iconografia.png"/>
 </p>
 
+### 2.4. Componentes
 Partiendo de los bocetos, destacamos los siguientes patrones y componentes:
 
 <p align="center">

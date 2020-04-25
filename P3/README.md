@@ -30,7 +30,7 @@ Los iconos usados en Viamos! son los predeterminados por Material Design usando 
 </p>
 
 ### 2.4. Componentes
-Partiendo de los bocetos, destacamos los siguientes patrones y componentes:
+Partiendo de los bocetos, destacamos los siguientes componentes:
 
 <p align="center">
   <img src="../P2/Bocetos/Principal.png"/>

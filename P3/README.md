@@ -1,7 +1,28 @@
 # DIU - Practica 3. Tu	equipo	UX	Case	Study
 
 ## 1. Análisis de MuseMap   
+MuseApp es una aplicación cuya función principal es informar a los usuarios  sobre el arte urbano que hay en su entorno. 
 
+El equipo de MuseApp ha realizado un análisis que ha partido desde el supuesto hecho de que el ayuntamiento de Londres les ha contratado. El análisis del equipo de Muse App se ha basado en los siguiente puntos:
+
+- Brainstorming: Han supuesto cuál es su usuario objetivo y las necesidades que este puede tener.
+
+- Competitive Analysis: Han analizado las diferentes opciones que tienen los usuarios que podría hacerle competencia. Para ello en una tabla han comparado las diferentes aplicaciones, con el objetivo de cerciorarse de que funcionalidades son comunes (y por ello potencialmente interesantes de implementar). 
+
+- Empathy Map: Necesario para tener en cuenta cuales son los objetivos que tendría que cumplir la app desde el punto de vista de los usuarios.
+
+- Entrevistas y personas: Tras el análisis anterior y las entrevista que tuvieron con personas que potencialmente podrían ser usuarios de la aplicación. Deciden crear dos personas que engloban en general los aspectos comunes de las personas entrevistadas, con el fin de hacer un análisis más acorde a la realidad.
+
+- Experience Map: Tras sacar objetivos y debilidades de las personas. Realizan el mapa de experiencia gracias al  Journey del usuario y sus emociones. De aquí sacan los problemas para tenerlos en cuenta a la hora de diseñar el User Flow.
+
+- Wireframes: Tras exponer las ideas de cómo debería ser la aplicación, priorizan las funcionalidades que para elaborar los diseños de los bocetos. Realizan 2 iteraciones de bocetos a papel y otras 2 de alta definición con programas especializados en eso.
+
+- Sitemap: Con los bocetos obtenidos realizan el mapa de navegación de los sitios de la aplicación.
+
+- Guidelines: Exponen la tipografía, colores e iconografía que usará la aplicación y con estón elaboran las maquetas finales.
+
+
+Nosotros como equipo estando en su lugar hubiésemos realizado un análisis bastante similar al de MuseApp. Dentro del apartado de análisis competitivo hubiésemos hecho aunque de manera superficial un usability review solo para no cometer los mismo errores que la competencia. También les falta la malla receptora para aportar sus ideas y propuestas de valor. Respecto a las cosas que no hemos utilizado nosotros, nos llama la atención la entrevista a personas, ya que se puede obtener un punto de vista más realista y quizás un Brainstorming para la generación de ideas para aportar en la propuesta de valor y mejorar las personas que inventamos.
 
 ## 2. Propuesta de elementos de diseño o patrones a usar 
 Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google: [Material Design](https://material.io), donde podemos comprobar que utilizamos varias de las directrices que google nos aporta en su página oficial.

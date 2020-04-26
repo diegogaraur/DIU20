@@ -57,7 +57,7 @@ Mi perfil:
 
 Resultado de búsqueda:
   1. TOP BAR WITH SEARCH BAR: Muestra el nombre del destino buscado con posibilidad de editarlo o realizar otra búsqueda. También podemos volver atrás a la página principal y filtrar la búsqueda.
-  2. CARDS LIST: Esta lista contiene los resultados de la búsqueda que coinciden con el término buscado y mostrando además las ciudades u pueblos más cercanos a dicho término. Cada Card contiene una imagen, un titulo + la distancia a la que se encuentra del usuario que está buscando (si ésta ha dado permiso de localización) y la opción de guardar el destino gracias a un icono.
+  2. CARD LIST: Esta lista contiene los resultados de la búsqueda que coinciden con el término buscado y mostrando además las ciudades u pueblos más cercanos a dicho término. Cada Card contiene una imagen, un titulo + la distancia a la que se encuentra del usuario que está buscando (si ésta ha dado permiso de localización) y la opción de guardar el destino gracias a un icono.
 
 
 <p align="center">
@@ -76,7 +76,7 @@ Información de un destino:
 
 Lista de acompañantes:
   1. TOP BAR: Con posibilidad de volver atrás y filtrar.
-  2. USERS LIST: Listado de otros usuarios con más compatibilidad para ir al destino indicado. Según las actividades en común en ese destino.
+  2. USER LIST: Listado de otros usuarios con más compatibilidad para ir al destino indicado. Según las actividades en común en ese destino.
 
 
 <p align="center">
@@ -94,7 +94,7 @@ Perfil de un acompañante:
 </p>
 
 Chats:
-  1. USERS LIST: Sirviendo como lista de conversaciones (recividas, enviados, y nuevas conversaciones) (Social chat).
+  1. USER LIST: Sirviendo como lista de conversaciones (recividas, enviados, y nuevas conversaciones) (Social chat).
 
 
 <p align="center">

@@ -130,5 +130,8 @@ Conversación:
   
 ## 3. Historia en Video del UX Case Study
 
+Para conocernos y conocer Viamos! mejor puedes ver sl siguiente [vídeo](https://drive.google.com/file/d/1mYiTo1P7g_P5IthVuXjFCIaOzzB5WR5x/view?usp=sharing).
 
-## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+Esta práctica es la que más nos ha gustado, hemos visto las cosas que podríamos haber mejorado gracias al estudio de MuseApp. Por otro lado, hemos apredrido mejor dictar unas líneas de diseño, ya que antes de empezar la práctica no lo teníamos muy claro.

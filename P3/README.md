@@ -33,7 +33,7 @@ Los iconos usados en Viamos! son los predeterminados por Material Design usando 
 Partiendo de los bocetos, destacamos los siguientes componentes:
 
 <p align="center">
-  <img src="../P2/Bocetos/Principal.png"/>
+  <img src="Estilos/Buscar.png/>
 </p>
 
 Página principal (Buscar):
@@ -43,7 +43,7 @@ Página principal (Buscar):
  
  
 <p align="center">
-  <img src="../P2/Bocetos/MiPerfil.png"/>
+  <img src="Estilos/MiPerfil.png"/>
 </p>
 
 Mi perfil:
@@ -52,7 +52,7 @@ Mi perfil:
 
 
 <p align="center">
-  <img src="../P2/Bocetos/Busqueda.png"/>
+  <img src="Estilos/ResultadoBusqueda.png"/>
 </p>
 
 Resultado de búsqueda:
@@ -61,7 +61,7 @@ Resultado de búsqueda:
 
 
 <p align="center">
-  <img src="../P2/Bocetos/Informacion.png"/>
+  <img src="Estilos/InformacionCiudad.png"/>
 </p>
 
 Información de un destino:
@@ -72,7 +72,7 @@ Información de un destino:
 
 
 <p align="center">
-  <img src="../P2/Bocetos/ListaAcompañante.png"/>
+  <img src="Estilos/BucarAcompañante.png"/>
 </p>
 
 Lista de acompañantes:
@@ -81,7 +81,7 @@ Lista de acompañantes:
 
 
 <p align="center">
-  <img src="../P2/Bocetos/PerfilAcompañante.png"/>
+  <img src="Estilos/PerilAcompañante.png"/>
 </p>
 
 Perfil de un acompañante:
@@ -89,7 +89,7 @@ Perfil de un acompañante:
   - Boton flotante con texto centrado.
 
 <p align="center">
-  <img src="../P2/Bocetos/Chats.png"/>
+  <img src="Estilos/Chats.png"/>
 </p>
 
 Chats:
@@ -97,7 +97,7 @@ Chats:
 
 
 <p align="center">
-  <img src="../P2/Bocetos/Conversacion.png"/>
+  <img src="Estilos/Mensajes.ong"/>
 </p>
 
 Conversación:

@@ -111,8 +111,8 @@ L:Low M:Moderate H:High
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
-
->>> Analizar lo aprendido de la experiencia MuseApp 
+Nosotros como equipo estando en su lugar hubiésemos realizado un análisis bastante similar al de MuseApp. Dentro del apartado de análisis competitivo hubiésemos hecho aunque de manera superficial un usability review solo para no cometer los mismo errores que la competencia. También les falta la malla receptora para aportar sus ideas y propuestas de valor. Respecto a las cosas que no hemos utilizado nosotros, nos llama la atención la entrevista a personas, ya que se puede obtener un punto de vista más realista y quizás un Brainstorming para la generación de ideas para aportar en la propuesta de valor y mejorar las personas que inventamos.
+Para conocer mejor el Ux-Case Study de MuseApp pulsa [aquí](P3/README.md#1-análisis-de-musemap)
 
 ![Método UX](img/landing-page.png)  3.b Imagotipo
 ----

@@ -134,11 +134,20 @@ Estas imágenes estaría bien usarlas como foto de perfil de las redes sociales,
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
-Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google, Material Design y donde podemos comprobar que utilizamos varios de los componentes que google aporta con dichas líneas. La fuente que usaremos es Roboto, ya que es la fuente aconsejada por Google. Es clara y admite distintos pesos que podemos utilizar para que nuestro texto sea legible en cualquier situación.
+Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google: [Material Design](https://material.io), donde podemos comprobar que utilizamos varias de las directrices que google nos aporta en su página oficial.
 
-En cuanto a los colores que usaremos en la app vienen marcados por el imagotipo de la aplicación. El color morado (#4A148C) será el principal de la app, lo usaremos en algunos componentes como Top Bars, Bottom Bars, botones o iconos. El blanco (#FFFFFF) será usado para todos los fondos y tipografía cuando el fondo sea oscuro o morado. En fondos blancos o claros usaremos el color negro (#000000) para la tipografía. 
+- [Colores](P3/README.md#21-colores):
+  - Color primario: #4A148C (Violeta 900 de la paleta de colores Material Design)
+  - Variante Light: #7C43BD
+  
+- [Tipografía](P3/README.md#22-tipografía): Nunito
 
-Para más información acerca del uso de la tipografía, colores, los patrones y componentes utilizados haga click [aquí](P3/README.md#2-propuesta-de-elementos-de-diseño-o-patrones-a-usar).
+- [Iconografía](P3/README.md#23-iconografía): Material Icons Rounded
+
+- [Principales componentes](P3/README.md#24-componentes):
+  Search bar, Outlined button, Image list, Bottom bar, FAB, Card list, Top bar, Text list, Extended FAB, Tabs, Users list, Message list y text field entre otros.
+
+Para más información pulse los títulos de cada apartado.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----

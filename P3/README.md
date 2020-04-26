@@ -102,7 +102,7 @@ Chats:
 </p>
 
 Conversación:
-  1. TOP BAR: Con opción de volver atrás, ver perfil del usuario (icono de la persona) y un menú para otros ajustes (tre puntos).
+  1. TOP BAR: Con opción de volver atrás, ver perfil del usuario (icono de la persona) y un menú para otros ajustes (tres puntos).
   2. MESSAGE LIST: Mostando de un color los enviados y los recibidos (Social chat).
   3. TEXT FIELD WITH SEND BUTTON: Para enviar mensajes.
 

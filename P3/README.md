@@ -1,5 +1,15 @@
 # DIU - Practica 3. Tu	equipo	UX	Case	Study
 
+<p align="center">
+  <img width="300" src="Logotipo/1x/imagotipo_positivo.png">
+</p>
+
+Grupo: HORAPI  Curso: 2019/20
+
+Miembros
+ * :bust_in_silhouette:  Diego García Aurelio          :octocat: diegogaraur  
+ * :bust_in_silhouette:  Miguel Ángel Mena Barrera     :octocat: MenaBarrera
+ 
 ## 1. Análisis de MuseMap   
 MuseApp es una aplicación cuya función principal es informar a los usuarios  sobre el arte urbano que hay en su entorno. 
 

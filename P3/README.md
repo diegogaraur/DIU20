@@ -94,7 +94,7 @@ Perfil de un acompañante:
 </p>
 
 Chats:
-  - USERS LIST: Sirviendo como lista de conversaciones (recividas, enviados, y nuevas conversaciones) (Social chat).
+  1. USERS LIST: Sirviendo como lista de conversaciones (recividas, enviados, y nuevas conversaciones) (Social chat).
 
 
 <p align="center">

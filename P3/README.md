@@ -1,5 +1,26 @@
 # DIU - Practica 3. Tu	equipo	UX	Case	Study
- 
+
+Grupo: HORAPI  Curso: 2019/20 
+
+Miembros
+ * :bust_in_silhouette:  Diego García Aurelio          :octocat: diegogaraur  
+ * :bust_in_silhouette:  Miguel Ángel Mena Barrera     :octocat: MenaBarrera
+
+## Imagotipo
+Para la realización del logotipo se ha usado Affinity Designer para realizar las formas del isotipo y Adobe Illustrator para finalizar todo el diseño del imagotipo (refinar el isotipo, añadir el logotipo y realizar las distintas versiones). El logotipo parte de la idea de Viajar + Vamos = Viamos, todo esto hace incapié en que está en primera persona del plural para que se destaque la inclusión, ya que la aplicación tiene como objetivo que una persona encuentre compañeros de viaje. Por otro lado, en el imagotipo se puede ver como se forma una flecha que señala a un punto o viéndolo de otra forma, como tres caminos de personas distintas que se acaban juntando para llegar a un mismo punto. El punto simboliza el destino al que se quiere llegar.
+
+<p align="center">
+  <img height="150" src="Logotipo/2x/imagotipo_positivo_fondo@2x.png">
+  <img height="150" src="Logotipo/2x/isotipo1_positivo_fondo@2x.png">
+</p>
+
+<p align="center">
+  <img height="150" src="Logotipo/2x/imagotipo_negativo_fondo@2x.png">
+  <img height="150" src="Logotipo/2x/isotipo1_negativo_fondo@2x.png">
+</p>
+
+Estas imágenes estaría bien usarlas como foto de perfil de las redes sociales, pero para casos como el encabezado de Twitter sería mejor usar otro tipo de recursos ya que sino obtendríamos un perfil con el Logotipo/Imagotipo demasiado repetitivo.
+
 ## 1. Análisis de MuseMap   
 MuseApp es una aplicación cuya función principal es informar a los usuarios  sobre el arte urbano que hay en su entorno. 
 

@@ -152,7 +152,7 @@ Para más información pulse los títulos de cada apartado.
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+Para conocernos y conocer Viamos! mejor puedes ver sl siguiente [vídeo](https://drive.google.com/file/d/1mYiTo1P7g_P5IthVuXjFCIaOzzB5WR5x/view?usp=sharing).
 
 
 ## Paso 4. Evaluación 

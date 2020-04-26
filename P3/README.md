@@ -10,7 +10,7 @@ Las principales líneas de diseño tomadas para este proyecto vienen marcadas po
 El color principal de la aplicación de Viamos! parte del Imagotipo que es un violeta 900 de la [paleta de colores Material Design](https://material.io/design/color/the-color-system.html#tools-for-picking-colors). También hacemos uso de otro color, el cual es una variación clara del violeta 900 que usaremos mayoritariamente para botones.
 
 <p align="center">
-  <img height="600" src="Estilos/Color.png"/>
+  <img height="600" src="Estilos/Colores.png"/>
 </p>
 
 ### 2.2. Tipografía
@@ -33,7 +33,7 @@ Los iconos usados en Viamos! son los predeterminados por Material Design usando 
 Partiendo de los bocetos, destacamos los siguientes componentes:
 
 <p align="center">
-  <img src="Estilos/Buscar.png/>
+  <img src="Estilos/Buscar.png"/>
 </p>
 
 Página principal (Buscar):
@@ -72,7 +72,7 @@ Información de un destino:
 
 
 <p align="center">
-  <img src="Estilos/BucarAcompañante.png"/>
+  <img src="Estilos/BuscarAcompañante.png"/>
 </p>
 
 Lista de acompañantes:
@@ -81,7 +81,7 @@ Lista de acompañantes:
 
 
 <p align="center">
-  <img src="Estilos/PerilAcompañante.png"/>
+  <img src="Estilos/PerfilAcomañante.png"/>
 </p>
 
 Perfil de un acompañante:
@@ -97,7 +97,7 @@ Chats:
 
 
 <p align="center">
-  <img src="Estilos/Mensajes.ong"/>
+  <img src="Estilos/Mensajes.png"/>
 </p>
 
 Conversación:

@@ -37,18 +37,18 @@ Partiendo de los bocetos, destacamos los siguientes componentes:
 </p>
 
 Página principal (Buscar):
-  - Search bar: Utilizamos una barra de busqueda que sugiere nombres de ciuades con las que va coincidiendo la escritura (omitiendo tildes y mayúsculas).
-  - Lista (Encuentra tu destino): Lista con imágenes de los destinos más frecuentes en las búsquedas.
-  - Bottom Bar: Usamos este componente para un acceso simple al sitio de búsqueda, chats y mi perfil.
+  1. SEARCH BAR: Utilizamos una barra de busqueda que sugiere nombres de ciuades con las que va coincidiendo la escritura (omitiendo tildes y mayúsculas).
+  2. OUTLINED BUTTON: Para visualizar los destinos guardados.
+  3. IMAGE LIST: Lista con imágenes de los destinos más frecuentes en las búsquedas.
+  4. BOTTOM BAR: Usamos este componente para un acceso simple al sitio de búsqueda, chats y mi perfil.
  
  
 <p align="center">
-  <img src="Estilos/MiPerfil.png"/>
+  <img src="Estilos/Perfil.png"/>
 </p>
 
 Mi perfil:
-  - Floating Action Button: Permanece fijo en la pantalla, usado para editar la información del perfil del usuario.
-  - Bottom Bar.
+  1. Floating Action Button: Permanece fijo en la pantalla, usado para editar la información del perfil del usuario.
 
 
 <p align="center">
@@ -56,8 +56,8 @@ Mi perfil:
 </p>
 
 Resultado de búsqueda:
-  - Top Bar con Search bar: Muestra el nombre del destino buscado con posibilidad de editarlo o realizar otra búsqueda. También podemos volver atrás a la página principal y filtrar la búsqueda.
-  - Lista de Cards: Esta lista contiene los resultados de la búsqueda que coinciden con el término buscado y mostrando además las ciudades u pueblos más cercanos a dicho término. Cada Card contiene una imagen, un titulo + la distancia a la que se encuentra del usuario que está buscando (si ésta ha dado permiso de localización) y la opción de guardar el destino gracias a un icono.
+  1. TOP BAR WITH SEARCH BAR: Muestra el nombre del destino buscado con posibilidad de editarlo o realizar otra búsqueda. También podemos volver atrás a la página principal y filtrar la búsqueda.
+  2. CARDS LIST: Esta lista contiene los resultados de la búsqueda que coinciden con el término buscado y mostrando además las ciudades u pueblos más cercanos a dicho término. Cada Card contiene una imagen, un titulo + la distancia a la que se encuentra del usuario que está buscando (si ésta ha dado permiso de localización) y la opción de guardar el destino gracias a un icono.
 
 
 <p align="center">
@@ -65,10 +65,9 @@ Resultado de búsqueda:
 </p>
 
 Información de un destino:
-  - Top Bar: Con posibilidad de volver atrás, compartir el destino en otras aplicaciones y guardarlo.
-  - Gallery: Galeria de imágenes relacionadas con el destino.
-  - Lista de actividades: Estas se añaden gracias al icono add.
-  - Boton flotante con texto centrado: Características similares al Floating Action Button.
+  1. TOP BAR: Con posibilidad de volver atrás, compartir el destino en otras aplicaciones y guardarlo.
+  2. TEXT LIST: Estas se añaden gracias al icono add.
+  3. EXTENDED FLOATING ACTION BUTTON: Características similares al Floating Action Button.
 
 
 <p align="center">
@@ -76,8 +75,8 @@ Información de un destino:
 </p>
 
 Lista de acompañantes:
-  - Top Bar: Con posibilidad de volver atrás y filtrar.
-  - Lista de Usuarios: Listado de otros usuarios con más compatibilidad para ir al destino indicado. Según las actividades en común en ese destino.
+  1. TOP BAR: Con posibilidad de volver atrás y filtrar.
+  2. USERS LIST: Listado de otros usuarios con más compatibilidad para ir al destino indicado. Según las actividades en común en ese destino.
 
 
 <p align="center">
@@ -85,15 +84,17 @@ Lista de acompañantes:
 </p>
 
 Perfil de un acompañante:
-  - Tabs: Un tab para la lista de actividades comunes para el destino buscado y el resto que no coinciden y otro tab para la información acerca del acompañante.
-  - Boton flotante con texto centrado.
+  1. TOP BAR: Con opción de ir atrás e informar acerca del usuario.
+  2. TABS: Un tab para la lista de actividades comunes para el destino buscado y el resto que no coinciden y otro tab para la información acerca del acompañante.
+  3. TEXT LIST: Lista de actividades del usuario.
+  4. EXTENDED FLOATING ACTION BUTTON.
 
 <p align="center">
   <img src="Estilos/Chats.png"/>
 </p>
 
 Chats:
-  - Lista de acompañanes: Sirviendo como lista de conversaciones (recividas, enviados, y nuevas conversaciones) (Social chat).
+  - USERS LIST: Sirviendo como lista de conversaciones (recividas, enviados, y nuevas conversaciones) (Social chat).
 
 
 <p align="center">
@@ -101,8 +102,9 @@ Chats:
 </p>
 
 Conversación:
-  - Top Bar: Con opción de volver atrás, ver perfil del usuario (icono de la persona) y un menú para otros ajustes (tre puntos).
-  - Lista de mensajes: Mostando de un color los enviados y los recibidos (Social chat).
+  1. TOP BAR: Con opción de volver atrás, ver perfil del usuario (icono de la persona) y un menú para otros ajustes (tre puntos).
+  2. MESSAGE LIST: Mostando de un color los enviados y los recibidos (Social chat).
+  3. TEXT FIELD WITH SEND BUTTON: Para enviar mensajes.
 
   
 ## 3. Historia en Video del UX Case Study

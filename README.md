@@ -112,7 +112,7 @@ L:Low M:Moderate H:High
 -----
 
 Nosotros como equipo estando en su lugar hubiésemos realizado un análisis bastante similar al de MuseApp. Dentro del apartado de análisis competitivo hubiésemos hecho aunque de manera superficial un usability review solo para no cometer los mismo errores que la competencia. También les falta la malla receptora para aportar sus ideas y propuestas de valor. Respecto a las cosas que no hemos utilizado nosotros, nos llama la atención la entrevista a personas, ya que se puede obtener un punto de vista más realista y quizás un Brainstorming para la generación de ideas para aportar en la propuesta de valor y mejorar las personas que inventamos.
-Para conocer mejor el Ux-Case Study de MuseApp pulsa [aquí](P3/README.md#1-análisis-de-musemap)
+Para conocer mejor el Ux-Case Study de MuseApp pulsa [aquí](P3/README.md#1-análisis-de-musemap).
 
 ![Método UX](img/landing-page.png)  3.b Imagotipo
 ----
@@ -137,12 +137,12 @@ Estas imágenes estaría bien usarlas como foto de perfil de las redes sociales,
 Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google: [Material Design](https://material.io), donde podemos comprobar que utilizamos varias de las directrices que google nos aporta en su página oficial.
 
 - [Colores](P3/README.md#21-colores):
-  - Color primario: #4A148C (Violeta 900 de la paleta de colores Material Design)
-  - Variante Light: #7C43BD
+  - Color primario: #4A148C (Violeta 900 de la paleta de colores Material Design).
+  - Variante Light: #7C43BD.
   
-- [Tipografía](P3/README.md#22-tipografía): Nunito
+- [Tipografía](P3/README.md#22-tipografía): Nunito.
 
-- [Iconografía](P3/README.md#23-iconografía): Material Icons Rounded
+- [Iconografía](P3/README.md#23-iconografía): Material Icons Rounded.
 
 - [Principales componentes](P3/README.md#24-componentes):
   Search bar, Outlined button, Image list, Bottom bar, FAB, Card list, Top bar, Text list, Extended FAB, Tabs, Users list, Message list y text field entre otros.

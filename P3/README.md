@@ -1,14 +1,4 @@
 # DIU - Practica 3. Tu	equipo	UX	Case	Study
-
-<p align="center">
-  <img width="300" src="Logotipo/1x/imagotipo_positivo.png">
-</p>
-
-Grupo: HORAPI  Curso: 2019/20
-
-Miembros
- * :bust_in_silhouette:  Diego García Aurelio          :octocat: diegogaraur  
- * :bust_in_silhouette:  Miguel Ángel Mena Barrera     :octocat: MenaBarrera
  
 ## 1. Análisis de MuseMap   
 MuseApp es una aplicación cuya función principal es informar a los usuarios  sobre el arte urbano que hay en su entorno. 
@@ -38,10 +28,10 @@ Nosotros como equipo estando en su lugar hubiésemos realizado un análisis bast
 Las principales líneas de diseño tomadas para este proyecto vienen marcadas por la propuesta de Google: [Material Design](https://material.io), donde podemos comprobar que utilizamos varias de las directrices que google nos aporta en su página oficial.
 
 ### 2.1. Colores
-El color principal de la aplicación de Viamos! parte del Imagotipo que es un violeta 900 de la [paleta de colores Material Design](https://material.io/design/color/the-color-system.html#tools-for-picking-colors). También hacemos uso de otro color, el cual es una variación clara del violeta 900 que usaremos mayoritariamente para botones.
+El color principal de la aplicación de Viamos! parte del Imagotipo que es un violeta 900 de la [paleta de colores Material Design](https://material.io/design/color/the-color-system.html#tools-for-picking-colors) y hacemos uso de una variación clara del violeta 900 que usaremos mayoritariamente para botones. También, hemos añadido un color secundario, violeta 50 para el el fondo de los mensajes recibidos de otro usuario.
 
 <p align="center">
-  <img height="600" src="Estilos/Colores.png"/>
+  <img height="600" src="Estilos/Colors.png"/>
 </p>
 
 ### 2.2. Tipografía
@@ -129,7 +119,7 @@ Chats:
 
 
 <p align="center">
-  <img src="Estilos/Mensajes.png"/>
+  <img src="Estilos/Mensaje.png"/>
 </p>
 
 Conversación:

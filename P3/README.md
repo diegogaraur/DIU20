@@ -151,7 +151,7 @@ Conversación:
   
 ## 3. Historia en Video del UX Case Study
 
-Para conocernos y conocer Viamos! mejor puedes ver sl siguiente [vídeo](https://drive.google.com/file/d/1mYiTo1P7g_P5IthVuXjFCIaOzzB5WR5x/view?usp=sharing).
+Para conocernos y conocer Viamos! mejor puedes ver el siguiente [vídeo](https://drive.google.com/file/d/1mYiTo1P7g_P5IthVuXjFCIaOzzB5WR5x/view?usp=sharing).
 
 
 ## Valoración del equipo sobre la realización de esta práctica o los problemas surgidos

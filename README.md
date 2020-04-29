@@ -139,6 +139,7 @@ Las principales líneas de diseño tomadas para este proyecto vienen marcadas po
 - [Colores](P3/README.md#21-colores):
   - Color primario: #4A148C (Violeta 900 de la paleta de colores Material Design).
   - Variante Light: #7C43BD.
+  - Color secundario: #F3E5F5 (Violeta 50 de la paleta de colores Material Design).
   
 - [Tipografía](P3/README.md#22-tipografía): Nunito.
 
@@ -152,7 +153,7 @@ Para más información pulse los títulos de cada apartado.
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-Para conocernos y conocer Viamos! mejor puedes ver sl siguiente [vídeo](https://drive.google.com/file/d/1mYiTo1P7g_P5IthVuXjFCIaOzzB5WR5x/view?usp=sharing).
+Para conocernos y conocer Viamos! mejor puedes ver el siguiente [vídeo](https://drive.google.com/file/d/1mYiTo1P7g_P5IthVuXjFCIaOzzB5WR5x/view?usp=sharing).
 
 
 ## Paso 4. Evaluación 

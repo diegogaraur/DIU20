@@ -158,31 +158,53 @@ Para conocernos y conocer Viamos! mejor puedes ver el siguiente [vídeo](https:/
 
 ## Paso 4. Evaluación 
 
-
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
+### Caso 1: DIU1.NJA [repositiorio](https://github.com/EspGameplayer/DIU20)
+Este grupo a escogido como aplicacion de estudio Showaround. Han detectado que su punto mas débil es la falta de funcionalidad si no estas registrado. Para solventar problemas de la aplicacion deciden crear lookaround mas orientada a la busqueda de guias turisticos. 
 
+El UX Case Study en general es correcto, quizas habria que mejorar el logotipo y el analisis competitivo puesto que no han buscado mas aplicaciones alternativas que son competencia.
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+Como conclusión creemos que han hecho muy buen trabajo.
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+### Caso 2: DIU2.MACC [repositorio](https://github.com/MigueCc99/DIU20)
+Este grupo, no deja claro que aplicación esta analizando, por lo cuál es difícil evaluar su trabajo. En general el UX case study es correcto, habría que clarificar que app se analiza. También seria recomendable crear un logo para la aplicación.
 
+En general el trabajo es bueno, pero aún se podría mejorar si se le añaden pequeños detalles como el logo.
+
+## Caso 3: DIU1.JoDa [repositorio](https://github.com/JoseMR6/DIU20)
+El equipo JODA, ha elegido como aplicación de estudio couchsurfing. Un servicio que conecta a viajeros con personas que ofrecen un espacio en su casa para dormir. Tras su análisis han llegado a la conclusión de que el hecho de ser obligatorio el registro para empezar a usar el servicio acaaba por degradar la experiencia.
+
+Para solventarlo han decidido crear TravelForce, la cual según ellos "resuelve el probelma que tenía con los usuarios nuevos".
+
+El UX Case Study en rasgos generales es bueno, aunque hay cosas que se podrian mejorar, como unos bocetos con una definicion mejor o un sitemap mas desarrollado. Pero aún asi han hecho muy buen trabajo.
+
+Puedes ver las valoraciones [aquí](https://github.com/diegogaraur/DIU20/blob/master/P4/README.md).
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+### Experiencia 1
+Kevin en el caso 1, buscría un guía para el viaje que quería realizar. Cuando llega al perfil de un guía, se fija en los comentarios del guía y concluye que alomejor no son fiables ya que los usuarios pueden comentar sin haber sin haber contratado al guía.
+
+### Experiencia 2
+Kevin en el caso 2, quiere buscar un piso para todo el año en Alicante, ya que el año que viene va a hacer un SICUE allí. Se registra en la aplicación y busca algún inmueble, pero no sabe si los inmuebles o sus arrendatarios están verificados. Por tanto, decide finalmente consultarlo en una inmobiliaria.
+
+### Experiencia 3
+Alejandro en el caso 3, buscaría un viaje a Sevilla para ir al parque de atracciones. Tras ingresar en la app de JoDa, se frustra porque no encuentra dónde escribir el destino. Prueba en pulsar una de las ofertas que le salen en la lista, pero no encuentra más información que la fecha de inicio y fin, y el precio. Cierra la aplciación disgustado y la borra de su teléfono.
 
 
 ![Método UX](img/Survey.png) 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+Respecto a los casos valorados, el ranking es el siguiente:
+1. Caso 1, 75/100
+2. Caso 2, 66/100
+3. Caso 3, 63/100
 
->>> Valoración personal 
+Han hecho un buen trabajo todos, pero con alguna cosa a mejorar. Creemos que todas han ido mejorando tras cada práctica.
 
 
 ## Conclusión final / Valoración de las prácticas
-
 
 >>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  

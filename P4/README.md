@@ -10,7 +10,7 @@ Este grupo a escogido como aplicacion de estudio Showaround. Han detectado que s
 
 El UX Case Study en general es correcto, quizas habria que mejorar el logotipo y el analisis competitivo puesto que no han buscado mas aplicaciones alternativas que son competencia.
 
-Como conclusion creemos que han hecho muy buen trabajo.
+Como conclusión creemos que han hecho muy buen trabajo.
 
 
 

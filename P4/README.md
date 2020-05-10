@@ -1,4 +1,4 @@
-# DIU - Practica 4, entregables
+# DIU - Practica 4
 Grupo: HORAPI  Curso: 2019/20 
 
 Miembros

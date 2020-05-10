@@ -42,6 +42,9 @@ Como conclusión creemos que han hecho muy buen trabajo.
 ## Caso 2: DIU2.MACC
 
 ### Descripción
+Este grupo, no deja claro que aplicación esta analizando, por lo cuál es difícil evaluar su trabajo. En general el UX case study es correcto, habría que clarificar que app se analiza. También seria recomendable crear un logo para la aplicación.
+
+En general el trabajo es bueno, pero aún se podría mejorar si se le añaden pequeños detalles como el logo.
 
 ### Hoja de valoración  
 | No | Aspectos evaluados                                                                                                                                                                                                          | Score     | Comments                                                                                                                                             |

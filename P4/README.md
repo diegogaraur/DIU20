@@ -5,7 +5,7 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 
 ## Caso 1: DIU1.NJA
 
-### Descripción
+### Descripción y conclusiones
 Este grupo a escogido como aplicacion de estudio Showaround. Han detectado que su punto mas débil es la falta de funcionalidad si no estas registrado. Para solventar problemas de la aplicacion deciden crear lookaround mas orientada a la busqueda de guias turisticos. 
 
 El UX Case Study en general es correcto, quizas habria que mejorar el logotipo y el analisis competitivo puesto que no han buscado mas aplicaciones alternativas que son competencia.
@@ -41,7 +41,7 @@ Como conclusión creemos que han hecho muy buen trabajo.
 
 ## Caso 2: DIU2.MACC
 
-### Descripción
+### Descripción y conclusiones
 Este grupo, no deja claro que aplicación esta analizando, por lo cuál es difícil evaluar su trabajo. En general el UX case study es correcto, habría que clarificar que app se analiza. También seria recomendable crear un logo para la aplicación.
 
 En general el trabajo es bueno, pero aún se podría mejorar si se le añaden pequeños detalles como el logo.
@@ -73,7 +73,7 @@ En general el trabajo es bueno, pero aún se podría mejorar si se le añaden pe
 
 ## Caso 3: DIU1.JoDa
 
-### Descripción
+### Descripción y conclusiones
 El equipo JODA, ha elegido como aplicación de estudio couchsurfing. Un servicio que conecta a viajeros con personas que ofrecen un espacio en su casa para dormir. Tras su análisis han llegado a la conclusión de que el hecho de ser obligatorio el registro para empezar a usar el servicio acaaba por degradar la experiencia.
 
 Para solventarlo han decidido crear TravelForce, la cual según ellos "resuelve el probelma que tenía con los usuarios nuevos".

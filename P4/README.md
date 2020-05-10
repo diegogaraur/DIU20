@@ -6,6 +6,13 @@ Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proy
 ## Caso 1: DIU1.NJA
 
 ### Descripción
+Este grupo a escogido como aplicacion de estudio Showaround. Han detectado que su punto mas débil es la falta de funcionalidad si no estas registrado. Para solventar problemas de la aplicacion deciden crear lookaround mas orientada a la busqueda de guias turisticos. 
+
+El UX Case Study en general es correcto, quizas habria que mejorar el logotipo y el analisis competitivo puesto que no han buscado mas aplicaciones alternativas que son competencia.
+
+Como conclusion creemos que han hecho muy buen trabajo.
+
+
 
 ### Hoja de valoración
 | No | Aspectos evaluados                                                                                                                                                                                                          | Score     | Comments                                                                                                                                                                                                                       |

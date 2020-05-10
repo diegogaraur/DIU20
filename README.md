@@ -179,7 +179,7 @@ Para solventarlo han decidido crear TravelForce, la cual según ellos "resuelve 
 
 El UX Case Study en rasgos generales es bueno, aunque hay cosas que se podrian mejorar, como unos bocetos con una definicion mejor o un sitemap mas desarrollado. Pero aún asi han hecho muy buen trabajo.
 
-Puedes ver las valoraciones [aquí](https://github.com/diegogaraur/DIU20/tree/master/P4).
+Puedes ver todas las valoraciones [aquí](https://github.com/diegogaraur/DIU20/tree/master/P4).
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----

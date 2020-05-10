@@ -1,9 +1,13 @@
 # DIU - Practica 4, entregables
+Grupo: HORAPI  Curso: 2019/20 
 
+Miembros
+ * :bust_in_silhouette:  Diego García Aurelio          :octocat: diegogaraur  
+ * :bust_in_silhouette:  Miguel Ángel Mena Barrera     :octocat: MenaBarrera
+ 
 Lista de proyectos (en github) https://github.com/mgea/DIU20/blob/master/P4/proyectos.md
 
-
-## Caso 1: DIU1.NJA
+## Caso 1: DIU1.NJA [repositiorio](https://github.com/EspGameplayer/DIU20)
 
 ### Descripción y conclusiones
 Este grupo a escogido como aplicacion de estudio Showaround. Han detectado que su punto mas débil es la falta de funcionalidad si no estas registrado. Para solventar problemas de la aplicacion deciden crear lookaround mas orientada a la busqueda de guias turisticos. 
@@ -39,7 +43,7 @@ Como conclusión creemos que han hecho muy buen trabajo.
 | 20 | P3 - Textos y descripciones de los ficheros README.md del repositorio de este equipo                                                                                                                                        | Excellent | Correctos.                                                                                                                                                                                                                     |
 |    | Overall UX case score (out of 100) \*                                                                                                                                                                                       | 75        | Bueno                                                                                                                                                                                                                          |
 
-## Caso 2: DIU2.MACC
+## Caso 2: DIU2.MACC [repositorio](https://github.com/MigueCc99/DIU20)
 
 ### Descripción y conclusiones
 Este grupo, no deja claro que aplicación esta analizando, por lo cuál es difícil evaluar su trabajo. En general el UX case study es correcto, habría que clarificar que app se analiza. También seria recomendable crear un logo para la aplicación.
@@ -71,7 +75,7 @@ En general el trabajo es bueno, pero aún se podría mejorar si se le añaden pe
 | 20 | P3 - Textos y descripciones de los ficheros README.md del repositorio de este equipo                                                                                                                                        | Moderate  | Faltan algunos enlaces en el readme principal que te llevan al readdme de la practica que contiene toda la informacion. Imágenes desproporcionadas   |
 |    | Overall UX case score (out of 100) \*                                                                                                                                                                                       | 66        | Justo pero no brillante                                                                                                                              |
 
-## Caso 3: DIU1.JoDa
+## Caso 3: DIU1.JoDa [repositorio](https://github.com/JoseMR6/DIU20)
 
 ### Descripción y conclusiones
 El equipo JODA, ha elegido como aplicación de estudio couchsurfing. Un servicio que conecta a viajeros con personas que ofrecen un espacio en su casa para dormir. Tras su análisis han llegado a la conclusión de que el hecho de ser obligatorio el registro para empezar a usar el servicio acaaba por degradar la experiencia.

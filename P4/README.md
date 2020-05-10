@@ -107,11 +107,21 @@ El UX Case Study en rasgos generales es bueno, aunque hay cosas que se podrian m
 
 ## User Testing
 
-	Describe la experiencia 1
+### Experiencia 1
+Kevin en el caso 1, buscría un guía para el viaje que quería realizar. Cuando llega al perfil de un guía, se fija en los comentarios del guía y concluye que alomejor no son fiables ya que los usuarios pueden comentar sin haber sin haber contratado al guía.
 
-	Describe la experiencia 2
+### Experiencia 2
+Kevin en el caso 2, quiere buscar un piso para todo el año en Alicante, ya que el año que viene va a hacer un SICUE allí. Se registra en la aplicación y busca algún inmueble, pero no sabe si los inmuebles o sus arrendatarios están verificados. Por tanto, decide finalmente consultarlo en una inmobiliaria.
 
-	Describe la experiencia 3
-
+### Experiencia 3
+Alejandro en el caso 3, buscaría un viaje a Sevilla para ir al parque de atracciones. Tras ingresar en la app de JoDa, se frustra porque no encuentra dónde escribir el destino. Prueba en pulsar una de las ofertas que le salen en la lista, pero no encuentra más información que la fecha de inicio y fin, y el precio. Cierra la aplciación disgustado y la borra de su teléfono.
 
 ## Conclusiones
+Tras haber analizados y valorado los tres caso, queremos destatacar que es complicado valorar otros proyectos, pero útil para afianzar conocimientos. También, hemos visto cosas que podríamos haber mejorado en nuestro UX Case Study tras ver el trabajo de los demás.
+
+Respecto a los casos valorados, el ranking es el siguiente:
+1. Caso 1, 75/100
+2. Caso 2, 66/100
+3. Caso 3, 63/100
+
+Han hecho un buen trabajo todos, pero con alguna cosa a mejorar. Creemos que todas han ido mejorando tras cada práctica.

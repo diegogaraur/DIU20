@@ -179,7 +179,7 @@ Para solventarlo han decidido crear TravelForce, la cual según ellos "resuelve 
 
 El UX Case Study en rasgos generales es bueno, aunque hay cosas que se podrian mejorar, como unos bocetos con una definicion mejor o un sitemap mas desarrollado. Pero aún asi han hecho muy buen trabajo.
 
-Puedes ver las valoraciones [aquí](https://github.com/diegogaraur/DIU20/blob/master/P4/README.md).
+Puedes ver las valoraciones [aquí](https://github.com/diegogaraur/DIU20/tree/master/P4).
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
@@ -207,4 +207,4 @@ Han hecho un buen trabajo todos, pero con alguna cosa a mejorar. Creemos que tod
 
 ## Conclusión final / Valoración de las prácticas
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+Al principio no costó empezar con está metodología de diseño, pero a lo largo de las prácticas no hemos ido adaptando y aprendiendo a hacer las cosas mejor. Respecto, a la realización de las prácticas en github, creemos que ha sido un acierto por el uso de una plantilla común para todas las prácticas y su formarto de presentación y colaboración.

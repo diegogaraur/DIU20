@@ -74,6 +74,11 @@ En general el trabajo es bueno, pero aún se podría mejorar si se le añaden pe
 ## Caso 3: DIU1.JoDa
 
 ### Descripción
+El equipo JODA, ha elegido como aplicación de estudio couchsurfing. Un servicio que conecta a viajeros con personas que ofrecen un espacio en su casa para dormir. Tras su análisis han llegado a la conclusión de que el hecho de ser obligatorio el registro para empezar a usar el servicio acaaba por degradar la experiencia.
+
+Para solventarlo han decidido crear TravelForce, la cual según ellos "resuelve el probelma que tenía con los usuarios nuevos".
+
+El UX Case Study en rasgos generales es bueno, aunque hay cosas que se podrian mejorar, como unos bocetos con una definicion mejor o un sitemap mas desarrollado. Pero aún asi han hecho muy buen trabajo.
 
 ### Hoja de valoración
 | No                                    | Aspectos evaluados                                                                                                                                                                                                          | Score                   | Comments                                                                                                                                                                                                                                                         |

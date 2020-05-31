@@ -208,3 +208,7 @@ Han hecho un buen trabajo todos, pero con alguna cosa a mejorar. Creemos que tod
 ## Conclusión final / Valoración de las prácticas
 
 Al principio nos costó empezar con está metodología de diseño, pero a lo largo de las prácticas nos hemos ido adaptando y aprendiendo a hacer las cosas mejor. Respecto, a la realización de las prácticas en github, creemos que ha sido un acierto por el uso de una plantilla común para todas las prácticas y su formarto de presentación y colaboración.
+
+## Rediseño de práctica
+Enlace a la versión beta: https://github.com/diegogaraur/DIU20/tree/beta
+

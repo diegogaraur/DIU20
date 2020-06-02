@@ -28,7 +28,14 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-Hemos escogido como aplicación para analizar *Travello* una red social de viajes y experiencias.
+La aplicación que vamos a analizar es la de [Travello](), que es una red social para viajeros. El objetivo principal de la aplicación es conectar viajeros una vez llegan a su destino. Algunas de las funcionalidades de Travello son las siguientes:
+- Descubrir otros viajeros cercanos.
+- Compartir publicaciones estilo Facebook.
+- Unirte a grupos de interés para interaccionar con otros usuarios.
+- Descubrir ofertas de viaje.
+
+En este caso de estudio vamos analizar la aplicación para generar nuevas ideas, evitar malas prácticas y aprender de las buenas. Después, realizaremos un rediseño u ofreceremos una nueva aplicación.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
@@ -51,8 +58,8 @@ Para ver las personas con más detalle pulsa [aquí](P1/README.md). (Apartado 2.
 ----
 
 - [Enlace al documento](P1/Usability%20scores.pdf)
-- Valoración final (numérica): 62/100 - Moderate
-- Comentario sobre la valoración: Comenzando por las cosas buenas de la aplicación, destacamos los formularios, que son bastantes completos y tienen los formatos correctos. Y por otro lado, la navegación está correcta, el usuario puede encontrar la aplicación correctamente y dentro de la aplicación es posible acceder a los distintas funcionalidades de manera rápida, quizás como pega pondríamos que tiene demasiados sitios. En cuanto a las cosas que destacamos como más pobres están el contenido, que flojea como información útil; Las búsquedas no se resuelven lo suficientemente bien y muchas de las funcionalidades acaban siendo demasiado complejas. El resto de aspectos no comentados, los vemos de forma moderada.
+- **Valoración final (numérica):** 62/100 - Moderate
+- **Comentario sobre la valoración:** Comenzando por las cosas buenas de la aplicación, destacamos los formularios, que son bastantes completos y tienen los formatos correctos. Y por otro lado, la navegación está correcta, el usuario puede encontrar la aplicación correctamente y dentro de la aplicación es posible acceder a los distintas funcionalidades de manera rápida, quizás como pega pondríamos que tiene demasiados sitios. En cuanto a las cosas que destacamos como más pobres están el contenido, que flojea como información útil; Las búsquedas no se resuelven lo suficientemente bien y muchas de las funcionalidades acaban siendo demasiado complejas. El resto de aspectos no comentados, los vemos de forma moderada.
 
 
 ## Paso 2. UX Design  
@@ -209,6 +216,27 @@ Han hecho un buen trabajo todos, pero con alguna cosa a mejorar. Creemos que tod
 
 Al principio nos costó empezar con está metodología de diseño, pero a lo largo de las prácticas nos hemos ido adaptando y aprendiendo a hacer las cosas mejor. Respecto, a la realización de las prácticas en github, creemos que ha sido un acierto por el uso de una plantilla común para todas las prácticas y su formarto de presentación y colaboración.
 
-## ![Método UX](img/iteration.png) Rediseño de práctica
-Enlace a la versión beta: https://github.com/diegogaraur/DIU20/tree/beta
+## ![Método UX](img/iteration.png) Paso extra. Rediseño de práctica
+Enlaces de interés:
+- [version beta del repositorio](https://github.com/diegogaraur/DIU20/tree/beta)
+- [Checklist](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/A1_DIU_Checklist-A1_HORAPI.pdf)
+- [DIU1.HOOKAH review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU1.HOOKAH.xls)
+- [DIU2.JVG review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU2.JVG.xls)
+- [DIU3.Crescendum review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU3.Crescendum.xls)
 
+### Conclusiones del feedback
+Tras revisar los informes de usabilidad y el checklist del profesor hemos llegado a las siguientes conclusiones:
+Por un lado, el trabajo referente al primer y segundo paso son mejorables por falta de conclusiones o extensión del trabajo realizado. Por otro lado, el trabajo realizado en los pasos posteriores es más completo y definido, ya que se pueden observar las justificaciones necesarias de cada decisión en el diseño de la aplicación.
+
+### Mejoras realizadas
+Los cambios pueden observarse pinchando en el título de cada mejora.
+
+- [Análisis competitivo](https://github.com/diegogaraur/DIU20#-1a-competitive-analysis): Se ha añadido el análisis competitivo que falta en la versión beta. De esta forma ahora se entiende mejor la aplicación escogida y su rediseño.
+- [Personas](https://github.com/diegogaraur/DIU20#-1b-persona): Se ha detallado mejor las personas para que encajen como usuarios de aplicaciones de este tipo.
+- [Usability Review](https://github.com/diegogaraur/DIU20#-1d-usability-review): Se ha escrito una conclusión resumen donde se destacan los errores y buenas prácticas de Travello.
+- [Malla receptora y propuesta de valor](https://github.com/diegogaraur/DIU20#-2a-feedback-capture-grid): Hemos añadido nuevas ideas en la malla receptora y aportado nuevas propuestas de valor, tras las experiencias de las personas de los otros grupos para satisfacer sus necesidades.
+- [Sitemap y taks](https://github.com/diegogaraur/DIU20#-2b-tasks--sitemap): Se ha modificado el sitemap con nombres más claros y añadimos una explicación del mismo y se han añadido todas las tareas que se pueden realizar en la aplicación.
+- [Labelling](https://github.com/diegogaraur/DIU20#-2c-labelling): Se ha mejorado, haciéndolo más completo.
+- [Bocetos](https://github.com/diegogaraur/DIU20#-2d-wireframes): Se ha añadido la navegabilidad entre los bocetos para que sean más entendibles.
+
+### Conclusión acerca de las mejoras 

@@ -19,8 +19,8 @@ Vamos a crear unas personas que encagen como usuarios de nuestra aplicación par
 
 ## 3. User Journey Map
 Vamos a ver como sería un ejemplo de las personas que hemos creado utilizando Travello para conocer sus dificultades y emociones utilizando la app y aprender que cosas hacen bien y cuáles no.
-![KevinJ](JourneyMaps/KevinJ.png)
-![AlejandroJ](JourneyMaps/AlejandroJ.png)
+![KevinJ](JourneyMaps/KevinJ.PNG)
+![AlejandroJ](JourneyMaps/AlejandroJ.PNG)
 Haga click en cada imagen para visualizarlas mejor.
 
 ## 4. Revisión de Usabilidad 

@@ -14,8 +14,8 @@ En este caso de estudio vamos analizar la aplicación para generar nuevas ideas,
 ## 2. Personas 
 Vamos a crear unas personas que encagen como usuarios de nuestra aplicación para poder utilizarlas para tener más empatía con el usuario.
 
-![Kevin](Users/Kevin.png)
-![Alejandro](Users/Alejandro.png)
+![Kevin](Users/Kevin.PNG)
+![Alejandro](Users/Alejandro.PNG)
 
 ## 3. User Journey Map
 Vamos a ver como sería un ejemplo de las personas que hemos creado utilizando Travello para conocer sus dificultades y emociones utilizando la app y aprender que cosas hacen bien y cuáles no.

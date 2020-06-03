@@ -42,10 +42,13 @@ En este caso de estudio vamos analizar la aplicación para generar nuevas ideas,
 Hemos escogido estas dos experiencias de usuario, ateniendonos a perfiles que entre sí son distintos. Uno de ellos (Kevin) esta mas relacionado con un estudiante como nosotros. La otra persona, es adulta y soltera, creemos que encaja dentro del perfil de los usuarios que puede tener la aplicación.
 
 <p align="center">
-  <img height="200" src="P1/Users/Kevin.png"> <img height="200" src="P1/Users/Alejandro.png">
+  <img height="300" src="Mejoras/img/Kevin.PNG">
+</p>
+<p align="center">
+  <img height="300" src="Mejoras/img/Alejandro.PNG">
 </p>
 
-Para ver las personas con más detalle pulsa [aquí](P1/README.md). (Apartado 2. Personas)
+Para ver las personas con más detalle pulsa sobre la propia imagen.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -69,7 +72,7 @@ Para ver las personas con más detalle pulsa [aquí](P1/README.md). (Apartado 2.
 ----
 
 <p align="center">
-  <img height="350" src="P2/MallaReceptora.png">
+  <img height="350" src="Mejoras/img/MallaReceptora.PNG">
 </p>
   
 ### ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
@@ -90,27 +93,35 @@ L:Low M:Moderate H:High
 
 ### Sitemap
 <p align="center">
-  <img src="P2/MapaDeSitios.png">
+  <img src="Mejoras/img/Sitemap.png">
 </p>
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
-  Término      | Significado     
-| ------------ | ------------
-  Chats        | Listado de conversaciones con otros usuarios de la aplicación.
-  Chatear      | Intercambio de mensajes con otro usuario.
-  Acompañante  | Usuario de la aplicación que busca otro/s compañeros de viaje.
+| Término                | Significado                                                  | Icono                                                        |
+| ---------------------- | ------------------------------------------------------------ | :----------------------------------------------------------- |
+| Busca tu próximo viaje | Es la página de inicio por defecto despues de iniciar sesión. Aquí puedes buscar el destino al que quieras viajar. | ![ic_busca](Mejoras/img/ic/ic_busca.PNG)![ic_buscar](Mejoras/img/ic/ic_buscar.PNG) |
+| Destinos guardados     | Bóton donde puedes ver todos los destinos que has guardado en Viamos! | ![ic_guardados](Mejoras/img/ic/ic_guardados.PNG) |
+| Guardar sitio          | Forma de marcar un sitio como favorito y acceder más rápido e incluso hacer ver a la gente que estás interesado en el destino. | ![ic_guardar](Mejoras/img/ic/ic_guardar.PNG) |
+| Encuentra tu sitio     | Esta etiqueta la utilizamos en la página principal para mostrar los destinos más populares, con la finalidad de sugerir al usuario un destino. |                                                              |
+| Chats                  | Lugar donde puedes ver la lista de contactos que han aceptado conversar contigo o viceversa. | ![ic_chats](Mejoras/img/ic/ic_chats.PNG) |
+| Mi perfil              | Lugar donde puedes ver tus datos como una descripción, idiomas, aspectos relacionados con la personalidad e intereses. | ![ic_miperfil](Mejoras/img/ic/ic_miperfil.PNG) |
+| Acompañante            | Usuario de la aplicación que busca otro/s compañeros de viaje. |                                                              |
+| Actividades            | Actividades a realizar en un destino.                        |                                                              |
+| Enviar                 | Dentro de la ventana de mensajes, enviar hace que el mensaje escrito en la entrada de texto se envie al otro usuario |                                                              |
+| Solicitar chat         | Botón que envía una solicitud al otro usuario para iniciar una conversación. Si es aceptada se notificará y el usuario le aparecerá en Chats. | ![ic_solocitarchat](Mejoras/img/ic/ic_solocitarchat.PNG) |
+| Contacto               | Página donde puedes encontrar las redes sociales de Viamos! y contactar con nosotros enviando un mensaje. |                                                              |
+| Personas interesadas   | Hace referencia al número de personas que tiene guardado un destino. |                                                              |
+| Mis actividades        | Lista de actividades que pretendo realizar en el destino indicado. De esta forma es más fácil buscar un acompañante afín a tí. |                                                              |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![Principal](P2/Bocetos/Principal.png) ![MiPerfil](P2/Bocetos/MiPerfil.png)
-![Busqueda](P2/Bocetos/Busqueda.png) ![Informacion](P2/Bocetos/Informacion.png)
-![ListaAcompaniante](P2/Bocetos/ListaAcompañante.png) ![PerfilAcompaniante](P2/Bocetos/PerfilAcompañante.png)
-![Chats](P2/Bocetos/Chats.png) ![Conversacion](P2/Bocetos/Conversacion.png)
+![NavegacionBocetos](Mejoras/img/NavigationWireframes.png)
 
+Puedes ver todos los bocetos pinchando [aquí](https://github.com/diegogaraur/DIU20/tree/master/P2#4-bocetos).
 
 ## Paso 3. Mi equipo UX-Case Study 
 
@@ -217,12 +228,14 @@ Han hecho un buen trabajo todos, pero con alguna cosa a mejorar. Creemos que tod
 Al principio nos costó empezar con está metodología de diseño, pero a lo largo de las prácticas nos hemos ido adaptando y aprendiendo a hacer las cosas mejor. Respecto, a la realización de las prácticas en github, creemos que ha sido un acierto por el uso de una plantilla común para todas las prácticas y su formarto de presentación y colaboración.
 
 ## ![Método UX](img/iteration.png) Paso extra. Rediseño de práctica
+Está claro que para que el diseño de una aplicación utilizando una metodología centrada en el usuario debemos de probar los diseños realizados con otros usuarios y otras experiencias con las que fueron diseñadas, para encontrar el punto en el que la aplicación funcione de forma correcta para la mayor cantidad de personas que sea posible. En este apartado se pretende mejorar aspectos tras las revisiones de los compañeros y los comentarios del profesor.
+
 Enlaces de interés:
 - [version beta del repositorio](https://github.com/diegogaraur/DIU20/tree/beta)
 - [Checklist](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/A1_DIU_Checklist-A1_HORAPI.pdf)
-- [DIU1.HOOKAH review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU1.HOOKAH.xls)
-- [DIU2.JVG review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU2.JVG.xls)
-- [DIU3.Crescendum review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU3.Crescendum.xls)
+- [DIU1.HOOKAH review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU1.HOOKAH.pdf)
+- [DIU2.JVG review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU2.JVG.pdf)
+- [DIU3.Crescendum review](https://github.com/diegogaraur/DIU20/blob/master/Mejoras/DIU1.HORAPI_review%20-%20DIU3.Crescendum.pdf)
 
 ### Conclusiones del feedback
 Tras revisar los informes de usabilidad y el checklist del profesor hemos llegado a las siguientes conclusiones:

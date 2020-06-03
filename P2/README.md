@@ -15,7 +15,7 @@ Ver/editar perfil  | H                    | M                       | M
 ## 3. Arquitectura de la información
 
 ### 3.1. Mapa del sitio
-![MapaDelSitio](MapaDeSitios.png)
+![MapaDelSitio](Sitemap.png)
 
 ### 3.2. Etiquetado
   Término      | Significado     

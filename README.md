@@ -28,7 +28,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
-La aplicación que vamos a analizar es la de [Travello](), que es una red social para viajeros. El objetivo principal de la aplicación es conectar viajeros una vez llegan a su destino. Algunas de las funcionalidades de Travello son las siguientes:
+La aplicación que vamos a analizar es la de [Travello](https://travelloapp.com/), que es una red social para viajeros. El objetivo principal de la aplicación es conectar viajeros una vez llegan a su destino. Algunas de las funcionalidades de Travello son las siguientes:
 - Descubrir otros viajeros cercanos.
 - Compartir publicaciones estilo Facebook.
 - Unirte a grupos de interés para interaccionar con otros usuarios.
@@ -53,8 +53,8 @@ Para ver las personas con más detalle pulsa sobre la propia imagen.
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-![JMKevin](P1/JourneyMaps/KevinJ.png)
-![JMAlejandro](P1/JourneyMaps/AlejandroJ.png)
+![JMKevin](Mejoras/KevinJ.PNG)
+![JMAlejandro](Mejoras/AlejandroJ.PNG)
 
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review

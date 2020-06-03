@@ -26,7 +26,8 @@ Ver/editar perfil  | H                    | M                       | M
 
 ## 4. Bocetos
 ![Principal](Bocetos/Principal.png "Página principal (buscar)") ![MiPerfil](Bocetos/MiPerfil.png "Mi perfil")
-![Busqueda](Bocetos/Busqueda.png "Búsqueda") ![Informacion](Bocetos/Informacion.png "Información de una ciudad")
+![Busqueda](Bocetos/Busqueda.png "Información de una búsqueda") ![Informacion](Bocetos/Informacion.png "Información de una ciudad")
 ![ListaAcompaniante](Bocetos/ListaAcompañante.png "Listado de acompañantes") ![PerfilAcompaniante](Bocetos/PerfilAcompañante.png "Perfil de acompañante")
 ![Chats](Bocetos/Chats.png "Chats") ![Conversacion](Bocetos/Conversacion.png "Conversación")
+![Conversacion](Bocetos/Contacto.png "Contacto")
 

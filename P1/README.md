@@ -1,4 +1,4 @@
-# DIU - Practica1. Análisis del Interfaz de Usuario. Revisión de Usabilidad
+# DIU - Practica 1. Análisis del Interfaz de Usuario. Revisión de Usabilidad
 
 ## 1. Análisis Competencia 
 La aplicación que vamos a analizar es la de Travello, que es una red social para viajeros. El objetivo principal de la aplicación es conectar viajeros una vez llegan a su destino. Algunas de las funcionalidades de Travello son las siguientes:

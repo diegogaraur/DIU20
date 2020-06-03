@@ -1,19 +1,26 @@
 # DIU - Practica1. Análisis del Interfaz de Usuario. Revisión de Usabilidad
 
 ## 1. Análisis Competencia 
+La aplicación que vamos a analizar es la de Travello, que es una red social para viajeros. El objetivo principal de la aplicación es conectar viajeros una vez llegan a su destino. Algunas de las funcionalidades de Travello son las siguientes:
 
+- Descubrir otros viajeros cercanos.
+- Compartir publicaciones estilo Facebook.
+- Unirte a grupos de interés para interaccionar con otros usuarios.
+- Descubrir ofertas de viaje.
+
+En este caso de estudio vamos analizar la aplicación para generar nuevas ideas, evitar malas prácticas y aprender de las buenas. Después, realizaremos un rediseño u ofreceremos una nueva aplicación.
 
 
 ## 2. Personas 
+Vamos a crear unas personas que encagen como usuarios de nuestra aplicación para poder utilizarlas para tener más empatía con el usuario.
 
 ![Kevin](Users/Kevin.png)
 ![Alejandro](Users/Alejandro.png)
 
 ## 3. User Journey Map
-
+Vamos a ver como sería un ejemplo de las personas que hemos creado utilizando Travello para conocer sus dificultades y emociones utilizando la app y aprender que cosas hacen bien y cuáles no.
 ![KevinJ](JourneyMaps/KevinJ.png)
 ![AlejandroJ](JourneyMaps/AlejandroJ.png)
-
 
 ## 4. Revisión de Usabilidad 
 
@@ -139,3 +146,6 @@
 * Moderate (between 49 and 69) - Users should be able to use this site or system and complete most important tasks, however the user experience could be significantly improved.					
 * Good (between 69 and 89) - Users should be able to use this site or system with relative ease and should be able to complete the vast majority of important tasks.					
 * Excellent (more than 89) - This site or system provides an excellent user experience for users. Users should be able to complete all important tasks on the site or system.					
+
+### Conclusiones
+Comenzando por las cosas buenas de la aplicación, destacamos los formularios, que son bastantes completos y tienen los formatos correctos. Y por otro lado, la navegación está correcta, el usuario puede encontrar la aplicación correctamente y dentro de la aplicación es posible acceder a los distintas funcionalidades de manera rápida, quizás como pega pondríamos que tiene demasiados sitios. En cuanto a las cosas que destacamos como más pobres están el contenido, que flojea como información útil; Las búsquedas no se resuelven lo suficientemente bien y muchas de las funcionalidades acaban siendo demasiado complejas. El resto de aspectos no comentados, los vemos de forma moderada.

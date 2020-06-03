@@ -119,7 +119,7 @@ L:Low M:Moderate H:High
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-![NavegacionBocetos](Mejoras/img/NavigationWireframes.png)
+![NavegacionBocetos](Mejoras/img/NavBocetos.png)
 
 Puedes ver todos los bocetos pinchando [aquí](https://github.com/diegogaraur/DIU20/tree/master/P2#4-bocetos).
 

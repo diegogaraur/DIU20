@@ -76,7 +76,11 @@ Para ver las personas con más detalle pulsa sobre la propia imagen.
 </p>
   
 ### ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
-Como propuesta de valor planteamos una app, para compartir experiencias o viajes. Hemos tomado como punto de partida Travello. Nuestra propuesta se basa en simplificar el diseño de la App, el cual era dificil de usar y de adaptarse. En segundo lugar hemos mantenido las funcionalidades básicas de Tavello que si cumplían una función real dentro de la plataforma. En tercer luegar hemos mejorado detalles como que una persona no puede hablar a otra sin una solicitud previa o que a cada usuario se le muestre para cada destino los usuarios mas afines.
+Como propuesta de valor planteamos una nueva app para buscar compañeros de viajes. Hemos tomado como punto de partida Travello, donde compartes experiencias en la zona que has ido de vacaciones. Nuestra propuesta se basa en simplificar el diseño de la App, el cual era dificil de usar y de adaptarse. En nuestra aplicación, buscas un lugar, si te gusta lo podrás guardar y añadir las actividades que quieres realizar en dicho destino. Después, solo tendrás que buscar uno o varios acompañantes, la app te mostrará los usuarios más afines a tí según las actividades a realizar allí, km, entre otras cosas. 
+
+En segundo luegar, hemos mejorado detalles como que una persona no puede hablar a otra sin una solicitud previa, de esta forma se evitan bots. Además, se puede reportar un usuario por si no cumpliera nuestras políticas, o bloquearlo si es necesario.
+
+Por último, como el usuario es lo más importante para nosotros podrás contactar con nosotros desde la app.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----

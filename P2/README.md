@@ -45,4 +45,4 @@ Ver/editar perfil  | H                    | M                       | M
 ![Conversacion](Bocetos/Contacto.png "Contacto")
 
 ### Navegación entre bocetos
-![NavegacionBocetos](Bocetos/NavigationWireframes.png)
+![NavegacionBocetos](Bocetos/NavBocetos.png)

@@ -260,6 +260,6 @@ Los cambios pueden observarse pinchando en el título de cada mejora.
 - [Malla receptora y propuesta de valor](https://github.com/diegogaraur/DIU20#-2a-feedback-capture-grid): Hemos añadido nuevas ideas en la malla receptora y aportado nuevas propuestas de valor, tras las experiencias de las personas de los otros grupos para satisfacer sus necesidades.
 - [Sitemap y taks](https://github.com/diegogaraur/DIU20#-2b-tasks--sitemap): Se ha modificado el sitemap con nombres más claros y añadimos una explicación del mismo y se han añadido todas las tareas que se pueden realizar en la aplicación.
 - [Labelling](https://github.com/diegogaraur/DIU20#-2c-labelling): Se ha mejorado, haciéndolo más completo.
-- [Bocetos](https://github.com/diegogaraur/DIU20#-2d-wireframes): Se ha añadido la navegabilidad entre los bocetos para que sean más entendibles.
+- [Bocetos](https://github.com/diegogaraur/DIU20#-2d-wireframes): Se ha añadido la navegabilidad entre los bocetos para que sean más entendibles y el boceto de Contacto.
 
 ### Conclusión acerca de las mejoras 

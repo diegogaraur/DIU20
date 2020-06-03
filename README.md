@@ -82,12 +82,22 @@ Como propuesta de valor planteamos una app, para compartir experiencias o viajes
 -----
 
 ### User tasks
-|                  | G1: Usuarios jovenes | G2: Usuarios no casados | G3: Familias   
-|------------------| -------------------- | ------------------------| -------------
-Registrarse        | L                    | L                       | L
-Buscar experiencia | L/M                  | M                       | M
-Chatear            | M                    | H                       | L
-Ver/editar perfil  | H                    | M                       | M
+|                        | G1: Usuarios jóvenes | G2: Usuarios no casados | G3: Familias |
+| ---------------------- | -------------------- | ----------------------- | ------------ |
+| Buscar destino         | L/M                  | M                       | M            |
+| Chatear                | H                    | H                       | L            |
+| Editar perfil          | H                    | M                       | L            |
+| Guardar destino        | M                    | L                       | M            |
+| Ver destinos guardados | M                    | M                       | M            |
+| Reportar/Bloquear      | M                    | M                       | L            |
+| Contacto               | M                    | M                       | H            |
+| Filtrar destinos       | H                    | M                       | M            |
+| Compartir destino      | H                    | L                       | M            |
+| Añadir actividades     | L                    | H                       | M            |
+| Buscar acompañante     | M                    | H                       | L            |
+| Filtrar acompañantes   | M                    | H                       | M            |
+| Solicitar chat         | M                    | H                       | L            |
+
 
 L:Low M:Moderate H:High
 

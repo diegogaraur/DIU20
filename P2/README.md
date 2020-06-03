@@ -8,12 +8,21 @@
 Como propuesta de valor planteamos una app, para compartir experiencias o viajes. Hemos tomado como punto de partida Travello. Nuestra propuesta se basa en simplificar el diseño de la App, el cual era dificil de usar y de adaptarse. En segundo lugar hemos mantenido las funcionalidades básicas de Tavello que si cumplían una función real dentro de la plataforma. En tercer luegar hemos mejorado detalles como que una persona no puede hablar a otra sin una solicitud previa o que a cada usuario se le muestre para cada destino los usuarios mas afines.
 
 ## 2. Matriz de tareas/usuarios
-|                  | G1: Usuarios jovenes | G2: Usuarios no casados | G3: Familias   
-|------------------| -------------------- | ------------------------| -------------
-Registrarse        | L                    | L                       | L
-Buscar experiencia | L/M                  | M                       | M
-Chatear            | M                    | H                       | L
-Ver/editar perfil  | H                    | M                       | M
+|                        | G1: Usuarios jóvenes | G2: Usuarios no casados | G3: Familias |
+| ---------------------- | -------------------- | ----------------------- | ------------ |
+| Buscar destino         | L/M                  | M                       | M            |
+| Chatear                | H                    | H                       | L            |
+| Editar perfil          | H                    | M                       | L            |
+| Guardar destino        | M                    | L                       | M            |
+| Ver destinos guardados | M                    | M                       | M            |
+| Reportar/Bloquear      | M                    | M                       | L            |
+| Contacto               | M                    | M                       | H            |
+| Filtrar destinos       | H                    | M                       | M            |
+| Compartir destino      | H                    | L                       | M            |
+| Añadir actividades     | L                    | H                       | M            |
+| Buscar acompañante     | M                    | H                       | L            |
+| Filtrar acompañantes   | M                    | H                       | M            |
+| Solicitar chat         | M                    | H                       | L            |
 
 ## 3. Arquitectura de la información
 

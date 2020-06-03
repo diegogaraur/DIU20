@@ -44,3 +44,5 @@ Ver/editar perfil  | H                    | M                       | M
 ![Chats](Bocetos/Chats.png "Chats") ![Conversacion](Bocetos/Conversacion.png "Conversación")
 ![Conversacion](Bocetos/Contacto.png "Contacto")
 
+### Navegación entre bocetos
+![NavegacionBocetos](Bocetos/NavigationWireframes.png)

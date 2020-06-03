@@ -260,10 +260,13 @@ Los cambios pueden observarse pinchando en el título de cada mejora.
 
 - [Análisis competitivo](https://github.com/diegogaraur/DIU20#-1a-competitive-analysis): Se ha añadido el análisis competitivo que falta en la versión beta. De esta forma ahora se entiende mejor la aplicación escogida y su rediseño.
 - [Personas](https://github.com/diegogaraur/DIU20#-1b-persona): Se ha detallado mejor las personas para que encajen como usuarios de aplicaciones de este tipo.
-- [Usability Review](https://github.com/diegogaraur/DIU20#-1d-usability-review): Se ha escrito una conclusión resumen donde se destacan los errores y buenas prácticas de Travello.
+- [Journey Maps](https://github.com/diegogaraur/DIU20#-1c-user-journey-map): Se han modificado los journey maps, ahora muestran errores que existen en la app, que ayudan a aprender y ecitar malas prácticas para futuras decisiones.
+- [Usability Review](https://github.com/diegogaraur/DIU20#-1d-usability-review): Se ha escrito una conclusión que faltaba cuando el profesor revisó nuestro caso de estudio. Donde se destacan los errores y buenas prácticas de Travello.
 - [Malla receptora y propuesta de valor](https://github.com/diegogaraur/DIU20#-2a-feedback-capture-grid): Hemos añadido nuevas ideas en la malla receptora y aportado nuevas propuestas de valor, tras las experiencias de las personas de los otros grupos para satisfacer sus necesidades.
 - [Sitemap y taks](https://github.com/diegogaraur/DIU20#-2b-tasks--sitemap): Se ha modificado el sitemap con nombres más claros y añadimos una explicación del mismo y se han añadido todas las tareas que se pueden realizar en la aplicación.
-- [Labelling](https://github.com/diegogaraur/DIU20#-2c-labelling): Se ha mejorado, haciéndolo más completo.
+- [Labelling](https://github.com/diegogaraur/DIU20#-2c-labelling): Se ha mejorado, haciéndolo más completo, ya que en la beta sólo habían 3. Ahora, gracias al labelling se evitan confusiones y se tienen claros todas las etiquetas que se utilizan, en los bocetos y se adjuntan iconos relacionados.
 - [Bocetos](https://github.com/diegogaraur/DIU20#-2d-wireframes): Se ha añadido la navegabilidad entre los bocetos para que sean más entendibles y el boceto de Contacto.
 
-### Conclusión acerca de las mejoras 
+### Conclusión acerca de las mejoras y líneas futuras
+Las mejoras realizadas hacen que el diseño general del caso de estudio esté de forma más correcta y se consigan que el usuario entienda mejor algunos puntos que antes podía dudar y no entender.
+Como líneas futuras, deberíamos probar los bocetos con usuarios que nos ayuden a hacer que nuestra aplicación tenga la mejor experiencia de uso posible. También habría que hacer unos prototipos incorporando los guidelines y la navegavilidad con programas como Adobe XD, de esta forma se pude navegar y ver la intección real con el usuario. Finalizando con el desarrollo de la app.

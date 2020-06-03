@@ -2,7 +2,7 @@
 
 
 ## 1. Malla receptora de información
-![MallaReceptora](MallaReceptora.png)
+![MallaReceptora](MallaReceptora.PNG)
 
 ## 2. Matriz de tareas/usuarios
 |                  | G1: Usuarios jovenes | G2: Usuarios no casados | G3: Familias   
